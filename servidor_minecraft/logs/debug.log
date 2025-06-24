@@ -5161,3 +5161,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [24Jun2025 22:26:52.660] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
 [24Jun2025 22:26:52.717] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x1db6e382458ed7ab
 [24Jun2025 22:26:54.596] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[24Jun2025 22:30:03.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Sweet Dreams]
+[24Jun2025 22:30:11.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:30:11.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 22:30:47.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/2367, l='ServerLevel[world]', x=95.73, y=22.70, z=124.30] died: LoneGuy was slain by Swampman
+[24Jun2025 22:32:27.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [A Seedy Place]
+[24Jun2025 22:33:08.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [What a Deal!]
+[24Jun2025 22:35:11.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:35:11.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 22:36:09.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Stone Age]
+[24Jun2025 22:40:11.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 22:40:11.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

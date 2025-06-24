@@ -1769,3 +1769,72 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [24Jun2025 23:26:53.892] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
 [24Jun2025 23:28:24.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Timed out
 [24Jun2025 23:28:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
+[24Jun2025 23:31:23.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> me asustaste cagonazo
+[24Jun2025 23:31:25.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDD
+[24Jun2025 23:32:10.270] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/27259, l='ServerLevel[world]', x=65.50, y=11.00, z=20.50]
+[24Jun2025 23:34:32.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> XD
+[24Jun2025 23:34:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai
+[24Jun2025 23:34:45.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> rápido
+[24Jun2025 23:34:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> duerme
+[24Jun2025 23:34:54.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> nomas tengo 1 lana
+[24Jun2025 23:34:55.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDD
+[24Jun2025 23:34:59.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ven
+[24Jun2025 23:35:04.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tengo 30 camas
+[24Jun2025 23:35:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> voy
+[24Jun2025 23:35:29.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Not Today, Thank You]
+[24Jun2025 23:35:41.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Monster Hunter]
+[24Jun2025 23:35:41.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Knight Quest]
+[24Jun2025 23:36:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Meet the team]
+[24Jun2025 23:36:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Floating eyes ?]
+[24Jun2025 23:36:27.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> salte we
+[24Jun2025 23:36:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> duermo
+[24Jun2025 23:36:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> alan
+[24Jun2025 23:36:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y te metes
+[24Jun2025 23:36:35.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> salvame
+[24Jun2025 23:36:36.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDD
+[24Jun2025 23:36:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ya ando acá we
+[24Jun2025 23:36:47.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> me ando desangrando
+[24Jun2025 23:36:49.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> JAJAJA
+[24Jun2025 23:36:56.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was fungi-fied by Infected Wandering Trader
+[24Jun2025 23:37:28.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Sweet Dreams]
+[24Jun2025 23:37:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> GG
+[24Jun2025 23:37:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> Isai_Pacheco
+[24Jun2025 23:37:52.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/40, l='ServerLevel[world]', x=94.81, y=72.00, z=23.61] died, message: 'Farmer withered away whilst fighting Brotkatze'
+[24Jun2025 23:37:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Meet the team]
+[24Jun2025 23:37:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [OW THAT WAS THAT SMELL!]
+[24Jun2025 23:38:01.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:49948] logged in with entity id 30898 at (123.6217328087302, 69.0, 8.317838297745935)
+[24Jun2025 23:38:01.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[24Jun2025 23:38:02.047] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[24Jun2025 23:38:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [OW THAT WAS THAT SMELL!]
+[24Jun2025 23:38:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [OW THAT WAS THAT SMELL!]
+[24Jun2025 23:38:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Meet the team]
+[24Jun2025 23:38:13.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['ThatGardener'/6268, l='ServerLevel[world]', x=141.45, y=2.69, z=52.00] died: ThatGardener was impaled on a stalagmite
+[24Jun2025 23:38:14.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has succumbed to the infection
+[24Jun2025 23:38:16.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/67, l='ServerLevel[world]', x=141.70, y=69.75, z=15.85] died, message: 'Mason was fungi-fied by Brotkatze'
+[24Jun2025 23:38:17.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was slain by Brotkatze
+[24Jun2025 23:38:22.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [A broken reflection]
+[24Jun2025 23:38:22.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/150, l='ServerLevel[world]', x=116.50, y=72.00, z=16.19] died, message: 'Unemployed was eaten alive by AlanJCR'
+[24Jun2025 23:38:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [A broken reflection]
+[24Jun2025 23:38:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR was eaten alive by Brotkatze
+[24Jun2025 23:38:31.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has succumbed to the infection
+[24Jun2025 23:38:32.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco forgot Brotkatze was a bioweapon
+[24Jun2025 23:38:35.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/153, l='ServerLevel[world]', x=157.61, y=69.00, z=1.61] died, message: 'Nitwit was slain by Infected Villager'
+[24Jun2025 23:38:36.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/69, l='ServerLevel[world]', x=154.97, y=69.00, z=-0.87] died, message: 'Toolsmith was eaten alive by Brotkatze'
+[24Jun2025 23:38:43.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/22, l='ServerLevel[world]', x=167.15, y=70.00, z=-6.88] died, message: 'Mason was eaten alive by Brotkatze'
+[24Jun2025 23:38:52.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Stone Age]
+[24Jun2025 23:39:01.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/21, l='ServerLevel[world]', x=104.35, y=70.00, z=-42.43] died, message: 'Farmer withered away'
+[24Jun2025 23:39:10.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR was eaten alive by Brotkatze
+[24Jun2025 23:39:23.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Terminator Reference ?]
+[24Jun2025 23:39:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Floating eyes ?]
+[24Jun2025 23:39:32.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> pero que cojones tio
+[24Jun2025 23:39:34.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav was doomed to fall by Infested Construct
+[24Jun2025 23:39:34.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que son esas cosas
+[24Jun2025 23:39:36.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDDD
+[24Jun2025 23:39:51.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> tranquilo
+[24Jun2025 23:39:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [So we don't have a deal ?]
+[24Jun2025 23:39:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Brainzzz]
+[24Jun2025 23:39:55.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> tengo un plan
+[24Jun2025 23:39:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR was eaten alive by Brotkatze
+[24Jun2025 23:40:01.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav was eaten alive by Infected Human
+[24Jun2025 23:40:30.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [So we don't have a deal ?]
+[24Jun2025 23:40:30.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Brainzzz]

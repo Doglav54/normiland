@@ -1167,5 +1167,35 @@
     },
     "done": true
   },
+  "spore:inf_mobs": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-24 23:38:11 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_villager": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-24 23:39:54 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_construct": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-24 23:39:23 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_human": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-24 23:39:54 +0000"
+    },
+    "done": true
+  },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-24 23:38:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

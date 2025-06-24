@@ -1736,3 +1736,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [24Jun2025 23:20:00.251] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spore:main] rejected their client side version number
 [24Jun2025 23:20:00.252] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [24Jun2025 23:20:00.268] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34d3924b[id=<null>,name=Isai_Pacheco,properties={},legacy=false] (/100.73.73.12:49877) lost connection: Connection closed - mismatched mod channel list
+[24Jun2025 23:22:56.306] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spore:main] rejected their client side version number
+[24Jun2025 23:22:56.306] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[24Jun2025 23:22:56.319] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@485ea05b[id=<null>,name=Isai_Pacheco,properties={},legacy=false] (/100.73.73.12:49936) lost connection: Connection closed - mismatched mod channel list
+[24Jun2025 23:23:23.799] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spore:main] rejected their client side version number
+[24Jun2025 23:23:23.799] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[24Jun2025 23:23:23.819] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@745af2c9[id=<null>,name=Isai_Pacheco,properties={},legacy=false] (/100.73.73.12:49943) lost connection: Connection closed - mismatched mod channel list
+[24Jun2025 23:23:26.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:51127] logged in with entity id 23330 at (154.81126567165677, 70.0, 4.683775827633718)
+[24Jun2025 23:23:26.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[24Jun2025 23:23:26.085] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[24Jun2025 23:23:55.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav was kicked for floating too long!
+[24Jun2025 23:23:55.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Flying is not enabled on this server
+[24Jun2025 23:23:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
+[24Jun2025 23:24:11.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:51154] logged in with entity id 23533 at (154.81126567165677, 70.0, 4.683775827633718)
+[24Jun2025 23:24:11.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[24Jun2025 23:24:11.334] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[24Jun2025 23:24:28.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isai_Pacheco[/100.73.73.12:49967] logged in with entity id 23633 at (7.5, 71.0, -0.5)
+[24Jun2025 23:24:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco joined the game
+[24Jun2025 23:24:28.220] [Server thread/INFO] [Jade/]: Syncing config to Isai_Pacheco (d24a97c5-74cb-33b2-8e34-ad074712c2e1)
+[24Jun2025 23:24:43.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> queeeeeeeee
+[24Jun2025 23:25:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai
+[24Jun2025 23:25:07.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ve al este
+[24Jun2025 23:25:15.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> donde cojones es el este
+[24Jun2025 23:25:22.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> en el minimapa sale we
+[24Jun2025 23:25:28.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> o dale a la Z
+[24Jun2025 23:25:45.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ya
+[24Jun2025 23:26:03.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> CORRE ISAI
+[24Jun2025 23:26:26.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Timed out
+[24Jun2025 23:26:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
+[24Jun2025 23:26:53.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:51178] logged in with entity id 24785 at (125.90080318479413, 69.0, 20.44558026383199)
+[24Jun2025 23:26:53.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[24Jun2025 23:26:53.892] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[24Jun2025 23:28:24.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Timed out
+[24Jun2025 23:28:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game

@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "7bc20cc8-faf1-3cc1-9aee-b942a5c534fd",
+    "name": "Doglav",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1162,6 +1162,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2025-06-25 00:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-24 23:44:23 +0000"
@@ -1507,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-25 00:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-06-25 00:34:21 +0000"
@@ -1573,6 +1585,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2025-06-25 00:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-25 00:34:21 +0000"
@@ -1600,6 +1618,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-24 23:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-25 00:44:01 +0000"
     },
     "done": true
   },
@@ -1891,6 +1915,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2025-06-25 00:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-25 00:25:47 +0000"
@@ -1906,6 +1936,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-24 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2025-06-25 00:43:57 +0000"
     },
     "done": true
   },
@@ -1948,6 +1984,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-06-24 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-25 00:44:27 +0000"
     },
     "done": true
   },
@@ -2128,6 +2170,12 @@
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_bone_meal": "2025-06-25 00:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-25 00:44:01 +0000"
     },
     "done": true
   },

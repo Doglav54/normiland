@@ -7124,3 +7124,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [25Jun2025 00:40:11.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jun2025 00:40:11.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jun2025 00:40:16.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> me cagué
+[25Jun2025 00:41:20.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> QUE CARAJOS ES UN VIGIL
+[25Jun2025 00:41:29.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
+[25Jun2025 00:41:48.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas tengo miedo
+[25Jun2025 00:42:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [The Spanish Inquisition is back!]
+[25Jun2025 00:43:24.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> YA ME DIO MIEDO XDDDDD
+[25Jun2025 00:43:25.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75928, l='ServerLevel[world]', x=130.50, y=9.00, z=35.50]
+[25Jun2025 00:43:25.176] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75929, l='ServerLevel[world]', x=128.50, y=10.00, z=35.50]
+[25Jun2025 00:43:25.176] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75930, l='ServerLevel[world]', x=130.50, y=10.00, z=36.50]
+[25Jun2025 00:43:25.176] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75931, l='ServerLevel[world]', x=128.50, y=12.00, z=36.50]
+[25Jun2025 00:43:29.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75959, l='ServerLevel[world]', x=128.50, y=10.00, z=34.50]
+[25Jun2025 00:43:29.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75960, l='ServerLevel[world]', x=128.50, y=9.00, z=34.50]
+[25Jun2025 00:43:29.044] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75961, l='ServerLevel[world]', x=128.50, y=10.00, z=35.50]
+[25Jun2025 00:43:29.044] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75962, l='ServerLevel[world]', x=126.50, y=15.00, z=35.50]
+[25Jun2025 00:43:29.044] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75963, l='ServerLevel[world]', x=126.50, y=14.00, z=35.50]
+[25Jun2025 00:43:29.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75964, l='ServerLevel[world]', x=127.50, y=13.00, z=35.50]
+[25Jun2025 00:43:29.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75965, l='ServerLevel[world]', x=126.50, y=16.00, z=36.50]
+[25Jun2025 00:43:31.231] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/76012, l='ServerLevel[world]', x=123.50, y=16.00, z=32.50]
+[25Jun2025 00:43:31.231] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/76013, l='ServerLevel[world]', x=123.50, y=16.00, z=33.50]
+[25Jun2025 00:43:31.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/76014, l='ServerLevel[world]', x=124.50, y=16.00, z=33.50]
+[25Jun2025 00:43:31.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/76015, l='ServerLevel[world]', x=121.50, y=18.00, z=33.50]
+[25Jun2025 00:43:31.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/76016, l='ServerLevel[world]', x=122.50, y=17.00, z=34.50]
+[25Jun2025 00:43:31.233] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/76017, l='ServerLevel[world]', x=123.50, y=17.00, z=35.50]
+[25Jun2025 00:44:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Amateur Archaeologist]
+[25Jun2025 00:44:38.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Disconnected
+[25Jun2025 00:44:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
+[25Jun2025 00:45:04.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[25Jun2025 00:45:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[25Jun2025 00:45:11.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 00:45:11.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 00:45:22.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jun2025 00:45:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jun2025 00:45:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jun2025 00:45:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jun2025 00:45:22.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jun2025 00:45:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jun2025 00:45:23.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jun2025 00:45:23.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 00:45:23.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 00:45:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 00:45:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 00:45:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jun2025 00:45:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jun2025 00:45:23.348] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

@@ -986,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-24 23:53:03 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_boots": {
     "criteria": {
       "has_bone": "2025-06-24 23:35:41 +0000"
@@ -1079,6 +1085,12 @@
   "knightquest:recipes/misc/kukri_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-06-24 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-24 23:53:03 +0000"
     },
     "done": true
   },
@@ -1387,6 +1399,12 @@
   "spore:inf_player": {
     "criteria": {
       "hurt_by_infected": "2025-06-24 23:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-24 23:53:03 +0000"
     },
     "done": true
   },

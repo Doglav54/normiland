@@ -1887,3 +1887,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [24Jun2025 23:49:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Meet the Sniper]
 [24Jun2025 23:49:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ya
 [24Jun2025 23:50:23.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['gregTheTyrant'/36646, l='ServerLevel[world]', x=96.48, y=24.00, z=109.58] died: gregTheTyrant was slain by Zombie
+[24Jun2025 23:50:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> CORRE
+[24Jun2025 23:51:35.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=74, z=20} BlockPos{x=88, y=73, z=20}
+[24Jun2025 23:52:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> en mi casa we
+[24Jun2025 23:52:27.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QUE
+[24Jun2025 23:54:18.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Timed out
+[24Jun2025 23:54:18.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
+[24Jun2025 23:54:59.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:50287] logged in with entity id 43703 at (138.3356272353389, 69.0, 16.09546429538007)
+[24Jun2025 23:54:59.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[24Jun2025 23:54:59.799] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[24Jun2025 23:55:22.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> bajo tierra we
+[24Jun2025 23:55:27.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> yo al lado
+[24Jun2025 23:56:00.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to Isai_Pacheco]
+[24Jun2025 23:57:08.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45944, l='ServerLevel[world]', x=40.50, y=-20.00, z=-131.50]
+[24Jun2025 23:58:01.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> hijo de perra
+[24Jun2025 23:58:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> JAJAJA
+[24Jun2025 23:59:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was slain by Doglav
+[24Jun2025 23:59:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> como ven a este narco

@@ -276,3 +276,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [25Jun2025 20:56:07.465] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
 [25Jun2025 20:58:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Cover Me with Diamonds]
 [25Jun2025 20:59:14.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/1884, l='ServerLevel[world]', x=269.68, y=5.00, z=121.45] died: ExeedingSky74 was shot by Skeleton
+[25Jun2025 21:25:58.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/12814, l='ServerLevel[world]', x=313.70, y=-35.00, z=37.53] died: cheesepuff was slain by Eld Knight

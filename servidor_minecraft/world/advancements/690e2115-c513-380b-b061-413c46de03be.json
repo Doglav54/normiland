@@ -15,6 +15,7 @@
     "criteria": {
       "minecraft:river": "2025-06-24 22:57:01 +0000",
       "minecraft:dripstone_caves": "2025-06-25 00:18:00 +0000",
+      "minecraft:forest": "2025-06-25 23:36:08 +0000",
       "minecraft:plains": "2025-06-24 22:55:08 +0000"
     },
     "done": false
@@ -1113,7 +1114,8 @@
       "minecraft:skeleton": "2025-06-24 23:35:41 +0000",
       "minecraft:spider": "2025-06-25 00:27:11 +0000",
       "minecraft:creeper": "2025-06-24 23:37:49 +0000",
-      "minecraft:zombie": "2025-06-24 23:36:55 +0000"
+      "minecraft:zombie": "2025-06-24 23:36:55 +0000",
+      "minecraft:zombie_villager": "2025-06-25 23:30:36 +0000"
     },
     "done": false
   },
@@ -2475,7 +2477,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "spider_nest": "2025-06-25 21:31:51 +0000"
+      "overgrown_greens": "2025-06-25 23:39:15 +0000",
+      "spider_nest": "2025-06-25 21:31:51 +0000",
+      "redwood_forest": "2025-06-25 23:38:54 +0000",
+      "grassland": "2025-06-25 23:40:07 +0000"
     },
     "done": false
   },
@@ -2644,6 +2649,84 @@
   "spore:wendigo": {
     "criteria": {
       "hurt_by_infected": "2025-06-25 21:37:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-25 23:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-25 23:40:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-06-25 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-25 23:40:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-25 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-25 23:32:29 +0000"
     },
     "done": true
   },

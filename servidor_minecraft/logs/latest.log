@@ -305,3 +305,67 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [25Jun2025 23:33:11.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> si
 [25Jun2025 23:33:21.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/7728, l='ServerLevel[world]', x=2.50, y=4.00, z=44.50]
 [25Jun2025 23:33:21.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/7729, l='ServerLevel[world]', x=3.50, y=5.00, z=46.50]
+[25Jun2025 23:34:37.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no sé que tenemos que hacer
+[25Jun2025 23:34:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> yo voy a estar exiliado en las cueva
+[25Jun2025 23:34:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> se me olvido mi cama jeje
+[25Jun2025 23:35:08.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> porque los zombies van a mutar
+[25Jun2025 23:35:15.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ya lo se
+[25Jun2025 23:35:21.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> al menos que estemos en una de las cuevas
+[25Jun2025 23:35:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pero depende de cuantos bichos maten
+[25Jun2025 23:35:29.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> la jurasica es la mejor opcion
+[25Jun2025 23:35:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> si
+[25Jun2025 23:35:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> en el nether tambien llega la infeccion?
+[25Jun2025 23:36:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lo dudo
+[25Jun2025 23:36:10.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ya esta
+[25Jun2025 23:36:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> la tierra ya no es segura
+[25Jun2025 23:36:26.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> debemos ir al nether o al mundo jurasico
+[25Jun2025 23:36:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> pero yo me voy a tardar
+[25Jun2025 23:36:54.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> literalmente nigún lugar es seguro
+[25Jun2025 23:36:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> solo el cielo
+[25Jun2025 23:37:43.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> cuando probé el mod
+[25Jun2025 23:37:57.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lo probé con la IA que hacía que los mobs fuesen más inteligentes
+[25Jun2025 23:38:03.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> creo que por eso no se propagó
+[25Jun2025 23:38:20.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PORFIN
+[25Jun2025 23:38:28.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Isn't It Iron Pick]
+[25Jun2025 23:38:36.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> XDDDDDDD
+[25Jun2025 23:38:40.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> porfin
+[25Jun2025 23:38:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lmao
+[25Jun2025 23:38:44.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> quieres diamante?
+[25Jun2025 23:38:53.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> dame solo 4
+[25Jun2025 23:38:56.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> no se quedatelos
+[25Jun2025 23:38:58.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> o bueno
+[25Jun2025 23:39:29.186] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NexouuZ'/13848, l='ServerLevel[world]', x=-13.56, y=-40.00, z=139.73] died: NexouuZ was slain by Zombie
+[25Jun2025 23:39:41.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=70, z=76} BlockPos{x=404, y=69, z=76}
+[25Jun2025 23:39:41.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=70, z=76} BlockPos{x=404, y=69, z=76}
+[25Jun2025 23:39:53.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> yo digo que estemos full diamante
+[25Jun2025 23:39:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> e intentemos ir al jurasico
+[25Jun2025 23:39:59.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ya estoy full diamante
+[25Jun2025 23:40:05.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> bueno falto yo
+[25Jun2025 23:40:27.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> sabes tambien que está cagado?
+[25Jun2025 23:40:43.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> como tenemos el alex mobs hay más bichos que pueden matar
+[25Jun2025 23:41:11.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> SI TUVIERAMOS A LOS GAMMA CREATURES
+[25Jun2025 23:41:17.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> los hacen cagada we
+[25Jun2025 23:41:31.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> a quien
+[25Jun2025 23:41:36.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> a los gamma o a los infectados
+[25Jun2025 23:41:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> a los gamma we
+[25Jun2025 23:41:45.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> para escapar
+[25Jun2025 23:41:52.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> solo el golem si seria bueno para defensa y carnada
+[25Jun2025 23:41:59.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> xd
+[25Jun2025 23:42:20.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> yo digo que andemos juntos por cualquier cosa
+[25Jun2025 23:42:26.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> NO
+[25Jun2025 23:42:33.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> yo ando perdido literal
+[25Jun2025 23:42:34.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lmao
+[25Jun2025 23:42:44.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> y quiero usar el creativo asi bien crazy
+[25Jun2025 23:43:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> se hace de noche
+[25Jun2025 23:44:52.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> QUE NO TENGO CAMA
+[25Jun2025 23:45:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> gg
+[25Jun2025 23:45:44.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[25Jun2025 23:45:44.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[25Jun2025 23:46:09.091] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/23053, l='ServerLevel[world]', x=-21.50, y=3.00, z=-3.50]
+[25Jun2025 23:46:09.091] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/23054, l='ServerLevel[world]', x=-23.50, y=3.00, z=-2.50]
+[25Jun2025 23:46:10.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/23077, l='ServerLevel[world]', x=-7.50, y=5.00, z=0.50]
+[25Jun2025 23:47:26.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
+[25Jun2025 23:47:30.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Diamonds!]
+[25Jun2025 23:48:23.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/24541, l='ServerLevel[world]', x=-8.50, y=-3.00, z=48.50]
+[25Jun2025 23:50:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
+[25Jun2025 23:51:59.977] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/27853, l='ServerLevel[world]', x=12.50, y=-12.00, z=24.50]

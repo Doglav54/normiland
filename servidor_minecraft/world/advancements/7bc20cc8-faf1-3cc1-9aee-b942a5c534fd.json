@@ -1433,15 +1433,27 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/deepslate_boots": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
+      "has_raw_iron": "2025-06-25 00:06:46 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/polar_boots": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "has_iron_axe": "2025-06-25 00:42:23 +0000"
+      "has_raw_iron": "2025-06-25 00:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-25 00:06:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_boots": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
     },
     "done": true
   },
@@ -1457,45 +1469,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-06-25 00:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_helmet": "2025-06-25 00:09:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bat_leggings": {
-    "criteria": {
-      "has_dripstone_block": "2025-06-25 00:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-06-25 00:06:46 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/polar_leggings": {
-    "criteria": {
-      "has_iron_axe": "2025-06-25 00:42:23 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/polar_chestplate": {
-    "criteria": {
-      "has_iron_axe": "2025-06-25 00:42:23 +0000"
     },
     "done": true
   },
@@ -1535,18 +1511,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bat_helmet": {
-    "criteria": {
-      "has_dripstone_block": "2025-06-25 00:09:21 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/chainmail_helmet": {
-    "criteria": {
-      "has_iron_helmet": "2025-06-25 00:09:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
@@ -1565,21 +1529,9 @@
     },
     "done": true
   },
-  "spore:inquisitor": {
-    "criteria": {
-      "hurt_infected": "2025-06-25 00:42:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-25 00:11:47 +0000"
     },
     "done": true
   },
@@ -1592,24 +1544,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bat_chestplate": {
-    "criteria": {
-      "has_dripstone_block": "2025-06-25 00:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-06-25 00:11:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-06-25 00:06:46 +0000"
     },
     "done": true
   },
@@ -1643,33 +1577,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/polar_helmet": {
-    "criteria": {
-      "has_iron_axe": "2025-06-25 00:42:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-06-25 00:27:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-06-25 00:06:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_helmet": "2025-06-25 00:09:41 +0000"
     },
     "done": true
   },
@@ -1685,9 +1595,27 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/steel_axe": {
+  "knightquest:recipes/misc/deepslate_leggings": {
     "criteria": {
-      "has_iron_axe": "2025-06-25 00:42:23 +0000"
+      "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-25 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-25 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_dripstone_block": "2025-06-25 00:09:21 +0000"
     },
     "done": true
   },
@@ -1697,15 +1625,87 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-25 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-25 00:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-25 00:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-25 00:11:47 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/deepslate_leggings": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-06-25 00:07:36 +0000"
+      "has_pointed_dripstone": "2025-06-25 00:27:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_boots": {
+    "criteria": {
+      "has_iron_axe": "2025-06-25 00:42:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_iron_axe": "2025-06-25 00:42:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_iron_axe": "2025-06-25 00:42:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_iron_axe": "2025-06-25 00:42:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-06-25 00:42:23 +0000"
+    },
+    "done": true
+  },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_infected": "2025-06-25 00:42:34 +0000"
     },
     "done": true
   },

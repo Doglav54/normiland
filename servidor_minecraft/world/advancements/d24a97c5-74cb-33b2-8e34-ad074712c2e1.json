@@ -984,6 +984,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-26 00:41:42 +0000",
       "minecraft:spider": "2025-06-24 23:49:06 +0000",
+      "minecraft:creeper": "2025-06-26 01:13:37 +0000",
       "minecraft:cave_spider": "2025-06-26 00:51:04 +0000",
       "minecraft:zombie": "2025-06-24 23:50:25 +0000"
     },
@@ -2238,6 +2239,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-26 01:10:46 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/uchigatana_katana": {
     "criteria": {
       "has_diamond": "2025-06-26 00:17:20 +0000"
@@ -2355,6 +2362,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-26 00:33:42 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 01:07:08 +0000"
     },
     "done": true
   },

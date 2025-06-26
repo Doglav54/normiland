@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-06-26 01:54:54 +0000",
+      "minecraft:sunflower_plains": "2025-06-26 02:11:25 +0000",
       "minecraft:river": "2025-06-24 22:57:01 +0000",
       "minecraft:dripstone_caves": "2025-06-25 00:18:00 +0000",
       "minecraft:forest": "2025-06-25 23:36:08 +0000",
@@ -2747,15 +2748,57 @@
     },
     "done": true
   },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-26 02:12:50 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-06-26 01:51:46 +0000"
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-26 02:12:50 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-26 02:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-26 02:14:23 +0000"
+    },
+    "done": true
+  },
   "spore:specter": {
     "criteria": {
       "hurt_by_infected": "2025-06-26 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-26 02:13:17 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-26 02:12:50 +0000"
     },
     "done": true
   },

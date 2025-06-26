@@ -307,6 +307,7 @@
       "cooked_mutton": "2025-06-24 23:58:02 +0000",
       "pumpkin_pie": "2025-06-24 23:03:36 +0000",
       "bread": "2025-06-24 22:35:00 +0000",
+      "golden_apple": "2025-06-26 02:10:47 +0000",
       "cookie": "2025-06-24 22:44:26 +0000",
       "golden_carrot": "2025-06-26 02:02:31 +0000"
     },
@@ -2183,9 +2184,45 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_boots": {
     "criteria": {
       "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
     },
     "done": true
   },
@@ -2195,9 +2232,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
     },
     "done": true
   },
@@ -2219,9 +2280,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
     },
     "done": true
   },
@@ -2231,9 +2310,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2025-06-26 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
     },
     "done": true
   },
@@ -2243,9 +2334,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_chestplate": {
     "criteria": {
       "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-26 02:11:18 +0000"
     },
     "done": true
   },
@@ -2255,9 +2364,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_helmet": {
     "criteria": {
       "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-26 02:05:38 +0000"
     },
     "done": true
   },
@@ -2267,9 +2388,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_boots": {
     "criteria": {
       "has_golden_apple": "2025-06-26 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
     },
     "done": true
   },
@@ -2291,6 +2430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_leggings": {
     "criteria": {
       "has_spider_eye": "2025-06-26 01:52:40 +0000"
@@ -2306,6 +2451,12 @@
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 02:06:55 +0000"
     },
     "done": true
   },

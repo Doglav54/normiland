@@ -4221,3 +4221,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Jun2025 02:04:26.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 02:04:26.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jun2025 02:04:32.861] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/132361, l='ServerLevel[world]', x=187.50, y=41.00, z=-475.50]
+[26Jun2025 02:06:04.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> a,a
+[26Jun2025 02:06:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ALAN
+[26Jun2025 02:06:07.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
+[26Jun2025 02:06:11.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ya no puedo-.---
+[26Jun2025 02:06:20.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que pasó
+[26Jun2025 02:06:43.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> necesito explotar esto de una bomba nuclear
+[26Jun2025 02:06:44.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ALAN
+[26Jun2025 02:06:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> neta
+[26Jun2025 02:07:29.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132873, l='ServerLevel[world]', x=-15.30, y=138.01, z=-2826.30] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
+[26Jun2025 02:07:30.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132306, l='ServerLevel[world]', x=-23.61, y=138.01, z=-2826.30] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
+[26Jun2025 02:07:41.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132305, l='ServerLevel[world]', x=-15.30, y=138.01, z=-2832.32] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:07:48.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/133406, l='ServerLevel[world]', x=-15.30, y=138.01, z=-2834.70] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:07:51.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132181, l='ServerLevel[world]', x=-18.70, y=138.01, z=-2834.70] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:07:58.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> SUBO Y BUBO
+[26Jun2025 02:08:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PARA CORRER ABAJO
+[26Jun2025 02:08:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> SON UN VERGO
+[26Jun2025 02:08:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay keep?
+[26Jun2025 02:08:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hace rato vi a isai morir
+[26Jun2025 02:08:40.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y tenía sus cosas
+[26Jun2025 02:08:44.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> no hay keep
+[26Jun2025 02:08:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> whats
+[26Jun2025 02:09:26.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 02:09:26.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 02:09:38.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es de noche?
+[26Jun2025 02:09:41.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> NO SE
+[26Jun2025 02:10:25.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> alan
+[26Jun2025 02:10:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> dile a isai que lo amow
+[26Jun2025 02:10:32.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Captain Hook]
+[26Jun2025 02:10:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
+[26Jun2025 02:11:18.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Knight Quest]
+[26Jun2025 02:11:51.358] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/135911, l='ServerLevel[world]', x=400.50, y=25.00, z=-637.50]
+[26Jun2025 02:12:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> encontré una aldea
+[26Jun2025 02:12:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav was slain by Wither Skeleton
+[26Jun2025 02:12:33.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
+[26Jun2025 02:12:36.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to -12.500000, 134.500000, -2846.500000]
+[26Jun2025 02:13:28.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137804, l='ServerLevel[world]', x=275.50, y=-20.00, z=-867.50]
+[26Jun2025 02:13:28.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137805, l='ServerLevel[world]', x=274.50, y=-20.00, z=-866.50]
+[26Jun2025 02:13:28.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137806, l='ServerLevel[world]', x=276.50, y=-20.00, z=-866.50]
+[26Jun2025 02:13:28.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137807, l='ServerLevel[world]', x=271.50, y=-21.00, z=-865.50]
+[26Jun2025 02:13:30.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137827, l='ServerLevel[world]', x=277.50, y=-20.00, z=-866.50]
+[26Jun2025 02:13:30.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137828, l='ServerLevel[world]', x=276.50, y=-20.00, z=-865.50]
+[26Jun2025 02:13:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PERDI MI PUTA MOCHILAAAAAAAAAAAAA
+[26Jun2025 02:13:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> estás cocinado
+[26Jun2025 02:13:38.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137918, l='ServerLevel[world]', x=275.50, y=-15.00, z=-849.50]
+[26Jun2025 02:13:38.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137919, l='ServerLevel[world]', x=277.50, y=-15.00, z=-849.50]
+[26Jun2025 02:14:09.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136607, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2847.70] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:14:14.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136601, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2847.70] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:14:21.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136602, l='ServerLevel[world]', x=-47.70, y=146.01, z=-2837.30] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:14:26.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 02:14:26.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 02:14:32.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136603, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2837.30] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:14:37.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136605, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2837.30] died: Dinnerbone was slain by Doglav
+[26Jun2025 02:15:08.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Timed out
+[26Jun2025 02:15:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game

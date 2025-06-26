@@ -13,11 +13,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-26 17:57:19 +0000",
+      "minecraft:taiga": "2025-06-26 17:57:02 +0000",
       "minecraft:cherry_grove": "2025-06-26 01:54:54 +0000",
       "minecraft:sunflower_plains": "2025-06-26 02:11:25 +0000",
+      "minecraft:birch_forest": "2025-06-26 17:57:05 +0000",
+      "minecraft:dark_forest": "2025-06-26 17:57:13 +0000",
       "minecraft:river": "2025-06-24 22:57:01 +0000",
       "minecraft:dripstone_caves": "2025-06-25 00:18:00 +0000",
       "minecraft:forest": "2025-06-25 23:36:08 +0000",
+      "minecraft:windswept_forest": "2025-06-26 17:57:21 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-26 17:57:14 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-26 18:00:25 +0000",
       "minecraft:plains": "2025-06-24 22:55:08 +0000"
     },
     "done": false
@@ -3076,6 +3083,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_grass_block": "2025-06-26 18:03:36 +0000"
+    },
+    "done": true
+  },
   "spore:inf_witch": {
     "criteria": {
       "hurt_infected": "2025-06-26 17:28:45 +0000"
@@ -3106,9 +3119,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_grass_block": "2025-06-26 18:03:36 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-06-26 17:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-26 18:01:54 +0000"
     },
     "done": true
   },
@@ -3238,6 +3263,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-26 17:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-06-26 17:22:48 +0000"
@@ -3253,6 +3284,12 @@
   "knightquest:recipes/misc/sea_leggings": {
     "criteria": {
       "has_phantom_membrane": "2025-06-26 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_grass_block": "2025-06-26 18:03:36 +0000"
     },
     "done": true
   },

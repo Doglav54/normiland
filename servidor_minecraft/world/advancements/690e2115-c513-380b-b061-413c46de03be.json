@@ -3113,6 +3113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-06-26 17:32:10 +0000"
@@ -3128,6 +3134,18 @@
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-06-26 17:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
     },
     "done": true
   },
@@ -3179,6 +3197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-06-26 18:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-26 18:12:55 +0000"
@@ -3203,6 +3227,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-26 18:27:06 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/nether_chestplate": {
     "criteria": {
       "has_magma_cream": "2025-06-26 17:19:27 +0000"
@@ -3212,6 +3248,12 @@
   "knightquest:recipes/misc/phantom_helmet": {
     "criteria": {
       "has_phantom_membrane": "2025-06-26 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
     },
     "done": true
   },
@@ -3257,9 +3299,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-26 17:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-26 18:38:21 +0000"
     },
     "done": true
   },
@@ -3305,15 +3365,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-26 18:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 18:11:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/sea_helmet": {
     "criteria": {
       "has_phantom_membrane": "2025-06-26 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
     },
     "done": true
   },
@@ -3347,6 +3431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-26 18:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-26 17:37:24 +0000"
@@ -3377,9 +3467,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/silverfish_leggings": {
     "criteria": {
       "has_stone": "2025-06-26 18:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
     },
     "done": true
   },
@@ -3392,6 +3494,18 @@
   "knightquest:recipes/misc/sea_chestplate": {
     "criteria": {
       "has_phantom_membrane": "2025-06-26 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
     },
     "done": true
   },
@@ -3413,15 +3527,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-26 18:23:20 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_grass_block": "2025-06-26 18:03:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-26 18:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
     },
     "done": true
   },
@@ -3449,6 +3581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:23:31 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/nether_helmet": {
     "criteria": {
       "has_magma_cream": "2025-06-26 17:19:27 +0000"
@@ -3458,6 +3596,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-26 17:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:20:38 +0000"
     },
     "done": true
   },

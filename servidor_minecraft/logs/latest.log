@@ -465,3 +465,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Jun2025 18:00:19.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lmao
 [26Jun2025 18:01:33.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isai_Pacheco lost connection: Disconnected
 [26Jun2025 18:01:33.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco left the game
+[26Jun2025 18:23:30.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/33272, l='ServerLevel[world]', x=-430.50, y=-8.00, z=-1018.50]
+[26Jun2025 18:27:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Enchanter]
+[26Jun2025 18:34:39.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind

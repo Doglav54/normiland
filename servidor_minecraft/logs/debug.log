@@ -3102,3 +3102,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Jun2025 00:53:20.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to 251.500000, 78.500000, -1380.500000]
 [26Jun2025 00:53:22.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=68, y=49, z=-1477} but found not block entity block Block{minecraft:water}[level=1] at location
 [26Jun2025 00:53:22.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=68, y=49, z=-1477}
+[26Jun2025 00:54:14.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 00:54:14.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 00:54:51.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> A LA VERGA XDDDDDDDD
+[26Jun2025 00:54:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> que
+[26Jun2025 00:54:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> QUEE
+[26Jun2025 00:55:10.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> HAY UN SPAWN BIEN FEO
+[26Jun2025 00:55:16.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> DE ESOS ZOMBIS RAROS
+[26Jun2025 00:55:17.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDD
+[26Jun2025 00:55:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> CORREE
+[26Jun2025 00:57:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Over-juiced]
+[26Jun2025 00:59:14.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 00:59:14.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 01:01:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Suit Up]
+[26Jun2025 01:02:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> duerme
+[26Jun2025 01:03:52.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[26Jun2025 01:03:52.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[26Jun2025 01:03:52.452] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[26Jun2025 01:04:14.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 01:04:14.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

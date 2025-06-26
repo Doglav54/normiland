@@ -1119,6 +1119,7 @@
       "minecraft:hoglin": "2025-06-26 02:31:09 +0000",
       "minecraft:spider": "2025-06-25 00:27:11 +0000",
       "minecraft:creeper": "2025-06-24 23:37:49 +0000",
+      "minecraft:slime": "2025-06-26 17:37:05 +0000",
       "minecraft:phantom": "2025-06-26 17:27:39 +0000",
       "minecraft:wither_skeleton": "2025-06-26 02:26:40 +0000",
       "minecraft:cave_spider": "2025-06-26 01:43:11 +0000",
@@ -3087,6 +3088,12 @@
     },
     "done": true
   },
+  "spore:braiomil": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:41:07 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-06-26 17:22:48 +0000"
@@ -3117,6 +3124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-26 17:53:06 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/nether_chestplate": {
     "criteria": {
       "has_magma_cream": "2025-06-26 17:19:27 +0000"
@@ -3129,6 +3142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-26 17:36:46 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
       "has_magma_cream": "2025-06-26 17:19:27 +0000"
@@ -3138,6 +3157,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-06-26 17:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-26 17:53:06 +0000"
     },
     "done": true
   },
@@ -3162,6 +3187,12 @@
   "paraglider:recipes/misc/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2025-06-26 17:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-26 17:37:24 +0000"
     },
     "done": true
   },
@@ -3195,6 +3226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-26 17:37:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-06-26 17:32:10 +0000"
@@ -3216,6 +3253,18 @@
   "knightquest:recipes/misc/sea_leggings": {
     "criteria": {
       "has_phantom_membrane": "2025-06-26 17:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-26 17:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-06-26 17:36:11 +0000"
     },
     "done": true
   },

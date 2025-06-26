@@ -2604,5 +2604,17 @@
     },
     "done": true
   },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 19:47:29 +0000"
+    },
+    "done": true
+  },
+  "spore:scanning_world": {
+    "criteria": {
+      "pick_up_scanner": "2025-06-26 19:45:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

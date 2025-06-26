@@ -1715,9 +1715,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-26 00:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-26 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-06-26 00:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-25 23:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-26 00:20:44 +0000"
     },
     "done": true
   },
@@ -1745,9 +1769,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-26 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-26 00:25:31 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-26 00:12:58 +0000"
     },
     "done": true
   },
@@ -1757,15 +1799,51 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_diamond_axe": "2025-06-26 00:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 00:24:47 +0000"
+    },
+    "done": true
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 00:28:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-06-26 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-26 00:25:31 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-06-26 00:25:08 +0000"
     },
     "done": true
   },
@@ -1781,9 +1859,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-26 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-06-26 00:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "spore:usurper": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 00:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-26 00:25:31 +0000"
     },
     "done": true
   },
@@ -1793,9 +1895,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-26 00:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 00:24:47 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador3_helmet": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-26 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-26 00:20:44 +0000"
     },
     "done": true
   },
@@ -1811,15 +1937,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-26 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 00:21:00 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/uchigatana": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 00:24:47 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "pick_up_scanner": "2025-06-26 00:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_diamond_axe": "2025-06-26 00:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-26 00:25:08 +0000"
     },
     "done": true
   },
@@ -1832,6 +1994,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-26 00:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-26 00:23:37 +0000"
     },
     "done": true
   },

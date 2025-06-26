@@ -1,682 +1,292 @@
-[26Jun2025 00:00:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 00:02:30.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 00:05:19.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 00:05:59.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34366, l='ServerLevel[world]', x=10.50, y=11.00, z=5.50]
-[26Jun2025 00:06:06.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34464, l='ServerLevel[world]', x=6.50, y=8.00, z=7.50]
-[26Jun2025 00:06:16.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34699, l='ServerLevel[world]', x=-1.50, y=-21.00, z=-70.50]
-[26Jun2025 00:06:19.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34770, l='ServerLevel[world]', x=-1.50, y=-21.00, z=-82.50]
-[26Jun2025 00:06:19.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34771, l='ServerLevel[world]', x=-1.50, y=-20.00, z=-80.50]
-[26Jun2025 00:06:19.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34772, l='ServerLevel[world]', x=-0.50, y=-20.00, z=-80.50]
-[26Jun2025 00:06:19.630] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34773, l='ServerLevel[world]', x=-2.50, y=-20.00, z=-79.50]
-[26Jun2025 00:06:19.630] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34774, l='ServerLevel[world]', x=-1.50, y=-20.00, z=-79.50]
-[26Jun2025 00:06:19.630] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/34775, l='ServerLevel[world]', x=-2.50, y=-20.00, z=-78.50]
-[26Jun2025 00:08:18.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/36988, l='ServerLevel[world]', x=1.50, y=33.00, z=16.50]
-[26Jun2025 00:08:18.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/36989, l='ServerLevel[world]', x=3.50, y=33.00, z=17.50]
-[26Jun2025 00:09:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 00:09:09.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [I am not a worm !]
-[26Jun2025 00:09:19.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Spore]
-[26Jun2025 00:11:08.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Spectator Mode]
-[26Jun2025 00:11:33.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isai_Pacheco[/100.73.73.12:49847] logged in with entity id 39670 at (66.18643910116849, 72.0, -1.9952059874517218)
-[26Jun2025 00:11:33.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco joined the game
-[26Jun2025 00:11:33.549] [Server thread/INFO] [Jade/]: Syncing config to Isai_Pacheco (d24a97c5-74cb-33b2-8e34-ad074712c2e1)
-[26Jun2025 00:11:45.733] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/40052, l='ServerLevel[world]', x=96.50, y=8.00, z=7.50]
-[26Jun2025 00:11:54.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ALO SANS
-[26Jun2025 00:11:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> isai donde estas
-[26Jun2025 00:12:25.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 00:12:58.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ME ESTAN CULIANDO WE
-[26Jun2025 00:12:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Cover Me with Diamonds]
-[26Jun2025 00:12:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Merasmus the Wizard!]
-[26Jun2025 00:13:00.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDD
-[26Jun2025 00:13:17.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 00:13:58.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was shot by Delusioner
-[26Jun2025 00:14:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> VERGA
-[26Jun2025 00:15:10.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> YA NO ES SEGURP AHI ARRIBA?
-[26Jun2025 00:15:17.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> NOXD
-[26Jun2025 00:15:24.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> al menos la aldea esa no
-[26Jun2025 00:15:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> YA TE VI
-[26Jun2025 00:15:35.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 00:15:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> donde estas
-[26Jun2025 00:16:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> pero que cojones tio
-[26Jun2025 00:16:13.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ahi tampcoo es seguro LOL
-[26Jun2025 00:16:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> verga
-[26Jun2025 00:16:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> tenemos que ir al mundo jurasico o al nether
-[26Jun2025 00:16:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> aqui ya no es nuestro mundo...
-[26Jun2025 00:16:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> yo si les gano
-[26Jun2025 00:16:59.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> deja me hago cosas
-[26Jun2025 00:17:06.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ´PRIMERO COMIDA
-[26Jun2025 00:17:10.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> TOMA
-[26Jun2025 00:17:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Diamonds!]
-[26Jun2025 00:17:26.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> gracias por todo doglas
-[26Jun2025 00:17:26.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> mejor te doy todo
-[26Jun2025 00:17:34.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> y que hago con los diamantes
-[26Jun2025 00:17:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDD
-[26Jun2025 00:17:43.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ARMADURA O ALGO DAAA
-[26Jun2025 00:17:45.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> SABES QUE
-[26Jun2025 00:17:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> DAME DIEZ XD
-[26Jun2025 00:17:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> toma
-[26Jun2025 00:18:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> QUIERO MI
-[26Jun2025 00:18:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> MI ESCUDO DE DIAMANTES
-[26Jun2025 00:18:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> DAME 4
-[26Jun2025 00:19:02.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> isai
-[26Jun2025 00:19:04.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> toma
-[26Jun2025 00:19:26.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ire por comida
-[26Jun2025 00:19:30.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ok
-[26Jun2025 00:19:44.382] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45743, l='ServerLevel[world]', x=71.50, y=-7.00, z=-111.50]
-[26Jun2025 00:19:44.382] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45744, l='ServerLevel[world]', x=70.50, y=-6.00, z=-111.50]
-[26Jun2025 00:19:44.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45745, l='ServerLevel[world]', x=72.50, y=-6.00, z=-107.50]
-[26Jun2025 00:19:50.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> no mames todo esta infectado
-[26Jun2025 00:19:52.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45896, l='ServerLevel[world]', x=79.50, y=-25.00, z=-78.50]
-[26Jun2025 00:19:55.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45935, l='ServerLevel[world]', x=74.50, y=-6.00, z=-102.50]
-[26Jun2025 00:19:55.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45936, l='ServerLevel[world]', x=74.50, y=-7.00, z=-101.50]
-[26Jun2025 00:19:55.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45937, l='ServerLevel[world]', x=75.50, y=-6.00, z=-101.50]
-[26Jun2025 00:19:55.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45938, l='ServerLevel[world]', x=74.50, y=-5.00, z=-101.50]
-[26Jun2025 00:19:55.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45939, l='ServerLevel[world]', x=76.50, y=-6.00, z=-100.50]
-[26Jun2025 00:19:55.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/45940, l='ServerLevel[world]', x=75.50, y=-5.00, z=-98.50]
-[26Jun2025 00:20:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Meet the sweaty sniper]
-[26Jun2025 00:20:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> NOS ESTAN RODEANDO XD
-[26Jun2025 00:20:07.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDD
-[26Jun2025 00:20:18.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
-[26Jun2025 00:21:00.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Meet the Spy]
-[26Jun2025 00:21:16.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> puta madre
-[26Jun2025 00:21:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav was slain by Specter
-[26Jun2025 00:21:41.698] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47684, l='ServerLevel[world]', x=9.50, y=9.00, z=-0.50]
-[26Jun2025 00:21:41.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47685, l='ServerLevel[world]', x=11.50, y=10.00, z=0.50]
-[26Jun2025 00:21:41.700] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47686, l='ServerLevel[world]', x=11.50, y=9.00, z=0.50]
-[26Jun2025 00:21:41.701] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47687, l='ServerLevel[world]', x=9.50, y=10.00, z=0.50]
-[26Jun2025 00:21:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 00:21:49.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to -66.500000, 64.500000, -67.500000]
-[26Jun2025 00:22:28.687] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48560, l='ServerLevel[world]', x=23.50, y=4.00, z=-269.50]
-[26Jun2025 00:22:28.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48561, l='ServerLevel[world]', x=23.50, y=3.00, z=-268.50]
-[26Jun2025 00:22:28.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48562, l='ServerLevel[world]', x=23.50, y=5.00, z=-268.50]
-[26Jun2025 00:22:28.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48563, l='ServerLevel[world]', x=21.50, y=5.00, z=-265.50]
-[26Jun2025 00:22:28.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48564, l='ServerLevel[world]', x=21.50, y=4.00, z=-264.50]
-[26Jun2025 00:22:28.690] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48565, l='ServerLevel[world]', x=20.50, y=5.00, z=-264.50]
-[26Jun2025 00:22:43.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 00:23:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set the time to 1000]
-[26Jun2025 00:23:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> NO
-[26Jun2025 00:23:04.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> me da miedo
-[26Jun2025 00:23:07.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> JAJAJA
-[26Jun2025 00:23:17.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> si se hacia de noche ahi valian los diamantes que me diste
-[26Jun2025 00:23:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> verga
-[26Jun2025 00:24:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> toda la aldea esta hecha mierda
-[26Jun2025 00:25:11.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que tan peligrosos son los bisontes
-[26Jun2025 00:25:21.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> son algo fuertes
-[26Jun2025 00:25:24.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> te dan buena comida
-[26Jun2025 00:27:55.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> donde estas
-[26Jun2025 00:28:02.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to 13.500000, 71.500000, -31.500000]
-[26Jun2025 00:28:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> en perú
-[26Jun2025 00:28:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> los bisontes atacan en grupo?
-[26Jun2025 00:28:12.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Merasmus the Wizard!]
-[26Jun2025 00:28:16.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> es que hay un buen aqui
-[26Jun2025 00:28:23.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> y tengo miedo de que me fusilen
-[26Jun2025 00:28:24.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XD
-[26Jun2025 00:28:28.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> donde estas
-[26Jun2025 00:28:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> para irnos
-[26Jun2025 00:28:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> 124
-[26Jun2025 00:28:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> -345
-[26Jun2025 00:29:06.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> en la aldea?
-[26Jun2025 00:29:11.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> noxd
-[26Jun2025 00:30:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ya te vi
-[26Jun2025 00:30:44.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ahora
-[26Jun2025 00:30:46.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> a donde ir
-[26Jun2025 00:30:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> tienes tu cama?
-[26Jun2025 00:30:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> me falta 1 de lana
-[26Jun2025 00:31:01.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> xd
-[26Jun2025 00:31:06.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PUTA MADRE
-[26Jun2025 00:31:16.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> MATE UN VERGO DE OVEJAS Y NO ME AGARRE LA LANA
-[26Jun2025 00:31:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ya tengo
-[26Jun2025 00:31:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> AGUA ALLA
-[26Jun2025 00:31:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> a donde hay que ir
-[26Jun2025 00:31:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> nose we
-[26Jun2025 00:32:01.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> necesito el mapa del jurasico we
-[26Jun2025 00:32:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> yo ni de broma vuelvo a esa aldea
-[26Jun2025 00:32:10.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PUTA MADRE
-[26Jun2025 00:32:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> deje mi cama
-[26Jun2025 00:32:20.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set the time to 1000]
-[26Jun2025 00:32:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> NO TENGO MIEDO
-[26Jun2025 00:32:28.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ya regreso
-[26Jun2025 00:32:31.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ok
-[26Jun2025 00:32:59.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> hay ovejas
-[26Jun2025 00:33:01.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ahora si
-[26Jun2025 00:33:35.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> we
-[26Jun2025 00:33:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> armadura de cuero
-[26Jun2025 00:33:39.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
-[26Jun2025 00:33:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> para que
-[26Jun2025 00:35:01.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> tienes nervios?
-[26Jun2025 00:35:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> noxd
-[26Jun2025 00:36:16.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/59019, l='ServerLevel[world]', x=197.31, y=-1.00, z=-367.69] died: Flash62724  was doomed to fall by Enderman
-[26Jun2025 00:36:21.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/59020, l='ServerLevel[world]', x=198.87, y=15.65, z=-364.19] died: TheCaramelGuy was slain by Enderman
-[26Jun2025 00:36:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> sabes
-[26Jun2025 00:36:36.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> en la consola me salen muchos nombres de mobs que mueren
-[26Jun2025 00:36:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> pero son especificos
-[26Jun2025 00:37:07.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> UNA OVEJA ROSADA XDD
-[26Jun2025 00:37:15.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XD
-[26Jun2025 00:38:08.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> AHora te la traigo
-[26Jun2025 00:40:02.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QUE
-[26Jun2025 00:40:06.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> XDD
-[26Jun2025 00:40:11.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> es real o es siensia figsion
-[26Jun2025 00:40:14.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ES RIAL
-[26Jun2025 00:41:40.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> isai
-[26Jun2025 00:41:40.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Not Today, Thank You]
-[26Jun2025 00:41:41.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> DUERME
-[26Jun2025 00:41:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> voy
-[26Jun2025 00:42:13.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> cuidala
-[26Jun2025 00:42:18.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> es lo ultimo que sabras de mi
-[26Jun2025 00:42:21.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> adios isai...
-[26Jun2025 00:42:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> noooo
-[26Jun2025 00:44:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> BAOBOS
-[26Jun2025 00:44:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> VSDSFSDFA
-[26Jun2025 00:44:34.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
-[26Jun2025 00:44:34.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav fell from a high place
-[26Jun2025 00:44:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDDDDDDDDD
-[26Jun2025 00:44:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to 309.500000, 81.500000, -437.500000]
-[26Jun2025 00:46:52.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 00:47:13.882] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[26Jun2025 00:47:14.138] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[26Jun2025 00:47:14.139] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[26Jun2025 00:47:15.684] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[26Jun2025 00:47:15.685] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[26Jun2025 00:47:15.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[26Jun2025 00:47:15.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[26Jun2025 00:47:15.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[26Jun2025 00:47:15.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[26Jun2025 00:47:15.758] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[26Jun2025 00:47:15.767] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[26Jun2025 00:47:15.768] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[26Jun2025 00:47:15.768] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[26Jun2025 00:48:17.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Pillage you say ?]
-[26Jun2025 00:48:18.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Spore]
-[26Jun2025 00:49:02.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [He looks thirsty]
-[26Jun2025 00:49:39.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 00:49:41.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Not Today, Thank You]
-[26Jun2025 00:50:00.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Monster Hunter]
-[26Jun2025 00:51:14.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 00:51:16.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Amateur Archaeologist]
-[26Jun2025 00:51:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> de qie color
-[26Jun2025 00:51:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> que color
-[26Jun2025 00:51:30.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que cosa
-[26Jun2025 00:51:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> la tabla esa
-[26Jun2025 00:51:44.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> cual tabla
-[26Jun2025 00:51:46.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> son botas
-[26Jun2025 00:51:50.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> naaaaaaa
-[26Jun2025 00:51:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> de nieve
-[26Jun2025 00:52:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> duerme mejor
-[26Jun2025 00:52:10.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> si ni es de noche
-[26Jun2025 00:52:19.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> va ser de noche
-[26Jun2025 00:52:36.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> corre
-[26Jun2025 00:53:20.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to 251.500000, 78.500000, -1380.500000]
-[26Jun2025 00:53:22.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=68, y=49, z=-1477} but found not block entity block Block{minecraft:water}[level=1] at location
-[26Jun2025 00:53:22.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=68, y=49, z=-1477}
-[26Jun2025 00:54:51.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> A LA VERGA XDDDDDDDD
-[26Jun2025 00:54:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> que
-[26Jun2025 00:54:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> QUEE
-[26Jun2025 00:55:10.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> HAY UN SPAWN BIEN FEO
-[26Jun2025 00:55:16.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> DE ESOS ZOMBIS RAROS
-[26Jun2025 00:55:17.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDD
-[26Jun2025 00:55:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> CORREE
-[26Jun2025 00:57:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Over-juiced]
-[26Jun2025 01:01:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Suit Up]
-[26Jun2025 01:02:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> duerme
-[26Jun2025 01:03:52.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[26Jun2025 01:03:52.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[26Jun2025 01:03:52.452] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
-[26Jun2025 01:05:18.186] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81618, l='ServerLevel[world]', x=31.50, y=1.00, z=-298.50]
-[26Jun2025 01:05:18.187] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81619, l='ServerLevel[world]', x=31.50, y=0.00, z=-298.50]
-[26Jun2025 01:05:18.187] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81620, l='ServerLevel[world]', x=30.50, y=0.00, z=-297.50]
-[26Jun2025 01:05:18.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81621, l='ServerLevel[world]', x=29.50, y=1.00, z=-296.50]
-[26Jun2025 01:05:18.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81622, l='ServerLevel[world]', x=29.50, y=0.00, z=-296.50]
-[26Jun2025 01:05:18.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81623, l='ServerLevel[world]', x=30.50, y=1.00, z=-295.50]
-[26Jun2025 01:05:18.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81624, l='ServerLevel[world]', x=32.50, y=1.00, z=-295.50]
-[26Jun2025 01:05:18.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81625, l='ServerLevel[world]', x=29.50, y=2.00, z=-295.50]
-[26Jun2025 01:05:25.136] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81742, l='ServerLevel[world]', x=27.50, y=1.00, z=-297.50]
-[26Jun2025 01:05:25.136] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81743, l='ServerLevel[world]', x=27.50, y=0.00, z=-297.50]
-[26Jun2025 01:05:25.136] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81744, l='ServerLevel[world]', x=27.50, y=2.00, z=-296.50]
-[26Jun2025 01:05:27.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81777, l='ServerLevel[world]', x=25.50, y=2.00, z=-297.50]
-[26Jun2025 01:05:27.287] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81778, l='ServerLevel[world]', x=25.50, y=1.00, z=-297.50]
-[26Jun2025 01:05:32.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81890, l='ServerLevel[world]', x=27.50, y=1.00, z=-300.50]
-[26Jun2025 01:05:32.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/81891, l='ServerLevel[world]', x=28.50, y=2.00, z=-294.50]
-[26Jun2025 01:05:46.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
-[26Jun2025 01:05:46.385] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
-[26Jun2025 01:05:49.470] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[26Jun2025 01:07:08.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Meet the Spy]
-[26Jun2025 01:07:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QUE
-[26Jun2025 01:07:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> que paso we
-[26Jun2025 01:07:35.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> casi me papean
-[26Jun2025 01:08:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Amateur Archaeologist]
-[26Jun2025 01:08:31.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> bbbb
-[26Jun2025 01:08:35.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> un portal
-[26Jun2025 01:10:46.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Hot Stuff]
-[26Jun2025 01:11:49.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 01:12:18.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 01:12:23.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/88963, l='ServerLevel[world]', x=-2.50, y=10.00, z=-260.50]
-[26Jun2025 01:12:23.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/88964, l='ServerLevel[world]', x=-0.50, y=10.00, z=-260.50]
-[26Jun2025 01:12:23.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/88965, l='ServerLevel[world]', x=-1.50, y=10.00, z=-260.50]
-[26Jun2025 01:12:23.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/88966, l='ServerLevel[world]', x=-1.50, y=9.00, z=-259.50]
-[26Jun2025 01:12:23.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/88967, l='ServerLevel[world]', x=-2.50, y=10.00, z=-259.50]
-[26Jun2025 01:13:00.293] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/89583, l='ServerLevel[world]', x=134.50, y=-1.00, z=-227.50]
-[26Jun2025 01:13:43.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> DUERME
-[26Jun2025 01:19:34.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has completed the challenge [Free Willy]
-[26Jun2025 01:19:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> QUE PEDO
-[26Jun2025 01:19:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
-[26Jun2025 01:20:02.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> solo nade debajo de una orca y ya
-[26Jun2025 01:20:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> nada mas
-[26Jun2025 01:20:13.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> debajo de la mamá de nicolás
-[26Jun2025 01:20:15.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> lmao
-[26Jun2025 01:20:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> mentira
-[26Jun2025 01:21:43.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96652, l='ServerLevel[world]', x=356.37, y=83.00, z=-2592.28] died, message: 'Unemployed suffocated in a wall'
-[26Jun2025 01:22:28.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/96567, l='ServerLevel[world]', x=346.52, y=75.00, z=-2572.37] died, message: 'Farmer froze to death'
-[26Jun2025 01:23:08.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6685ms or 133 ticks behind
-[26Jun2025 01:24:04.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96586, l='ServerLevel[world]', x=341.45, y=75.00, z=-2576.63] died, message: 'Unemployed froze to death'
-[26Jun2025 01:24:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> isai
-[26Jun2025 01:24:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> creo que encontre algo importante
-[26Jun2025 01:24:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
-[26Jun2025 01:24:21.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> pero duerme
-[26Jun2025 01:24:24.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ok
-[26Jun2025 01:24:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> YA SE HARA DE NOCHE
-[26Jun2025 01:24:39.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99150, l='ServerLevel[world]', x=139.50, y=-1.00, z=-236.50]
-[26Jun2025 01:24:39.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99151, l='ServerLevel[world]', x=139.50, y=-2.00, z=-236.50]
-[26Jun2025 01:24:39.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99152, l='ServerLevel[world]', x=141.50, y=-3.00, z=-235.50]
-[26Jun2025 01:24:39.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99153, l='ServerLevel[world]', x=140.50, y=-3.00, z=-234.50]
-[26Jun2025 01:24:39.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99154, l='ServerLevel[world]', x=139.50, y=-1.00, z=-234.50]
-[26Jun2025 01:24:42.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/96590, l='ServerLevel[world]', x=341.74, y=75.00, z=-2576.01] died, message: 'Armorer froze to death'
-[26Jun2025 01:24:43.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99251, l='ServerLevel[world]', x=136.50, y=-1.00, z=-233.50]
-[26Jun2025 01:24:43.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99252, l='ServerLevel[world]', x=139.50, y=-1.00, z=-233.50]
-[26Jun2025 01:24:43.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99253, l='ServerLevel[world]', x=138.50, y=-2.00, z=-232.50]
-[26Jun2025 01:24:43.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99254, l='ServerLevel[world]', x=136.50, y=-2.00, z=-232.50]
-[26Jun2025 01:24:43.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99255, l='ServerLevel[world]', x=139.50, y=3.00, z=-232.50]
-[26Jun2025 01:24:43.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99256, l='ServerLevel[world]', x=139.50, y=2.00, z=-232.50]
-[26Jun2025 01:24:43.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99257, l='ServerLevel[world]', x=138.50, y=3.00, z=-232.50]
-[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99258, l='ServerLevel[world]', x=136.50, y=-3.00, z=-231.50]
-[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99259, l='ServerLevel[world]', x=139.50, y=-2.00, z=-231.50]
-[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99260, l='ServerLevel[world]', x=136.50, y=-1.00, z=-231.50]
-[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99261, l='ServerLevel[world]', x=138.50, y=2.00, z=-231.50]
-[26Jun2025 01:24:43.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99262, l='ServerLevel[world]', x=137.50, y=3.00, z=-230.50]
-[26Jun2025 01:24:43.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99263, l='ServerLevel[world]', x=138.50, y=-2.00, z=-229.50]
-[26Jun2025 01:24:47.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> duermeeeee
-[26Jun2025 01:24:48.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> TAAA
-[26Jun2025 01:24:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> AA
-[26Jun2025 01:24:49.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:49.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:49.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> AA
-[26Jun2025 01:24:49.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:50.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:50.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A
-[26Jun2025 01:24:50.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ya
-[26Jun2025 01:25:06.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> la skull soup es buena?
-[26Jun2025 01:25:06.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/96651, l='ServerLevel[world]', x=346.51, y=75.00, z=-2573.16] died, message: 'Cartographer froze to death'
-[26Jun2025 01:25:13.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> siento que me va a matar tan solo comerla
-[26Jun2025 01:25:46.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96591, l='ServerLevel[world]', x=349.23, y=75.00, z=-2573.77] died, message: 'Unemployed froze to death'
-[26Jun2025 01:25:57.846] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/100368, l='ServerLevel[world]', x=126.50, y=2.00, z=-238.50]
-[26Jun2025 01:25:57.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/100369, l='ServerLevel[world]', x=126.50, y=1.00, z=-237.50]
-[26Jun2025 01:25:57.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/100370, l='ServerLevel[world]', x=127.50, y=2.00, z=-237.50]
-[26Jun2025 01:25:57.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/100371, l='ServerLevel[world]', x=130.50, y=2.00, z=-237.50]
-[26Jun2025 01:25:57.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/100372, l='ServerLevel[world]', x=129.50, y=1.00, z=-235.50]
-[26Jun2025 01:26:49.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> LO PERDI
-[26Jun2025 01:26:58.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> perdi el mapa del oceano
-[26Jun2025 01:27:02.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> eres pelotudo
-[26Jun2025 01:27:05.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> murio el aldeano por caerse en la nieve
-[26Jun2025 01:27:06.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> XDD
-[26Jun2025 01:27:11.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> LOL
-[26Jun2025 01:28:01.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/102230, l='ServerLevel[world]', x=15.50, y=1.00, z=-300.50]
-[26Jun2025 01:28:45.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Disconnected
-[26Jun2025 01:28:45.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
-[26Jun2025 01:28:45.735] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[26Jun2025 01:29:17.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:50337] logged in with entity id 103268 at (346.0124887617653, 80.4204121875161, -2584.300000011921)
-[26Jun2025 01:29:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
-[26Jun2025 01:29:17.974] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
-[26Jun2025 01:31:15.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:49987] logged in with entity id 104689 at (675.2199270534712, 61.0, 102.78805618677663)
-[26Jun2025 01:31:15.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
-[26Jun2025 01:31:15.076] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
-[26Jun2025 01:31:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> alan
-[26Jun2025 01:31:25.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ERES TU MI PANITA ALAN
-[26Jun2025 01:31:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> AQUI ESTOY
-[26Jun2025 01:31:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> perdi el mapa del oceano
-[26Jun2025 01:31:31.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> YO LOS AYUDO
-[26Jun2025 01:31:32.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> XDD
-[26Jun2025 01:31:36.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pendejo
-[26Jun2025 01:31:39.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> donde están
-[26Jun2025 01:31:45.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> el aldeano MURIO EN LA NIVE
-[26Jun2025 01:31:48.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> nieve
-[26Jun2025 01:31:52.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> POR QUE NO MIRA SU CAMINO
-[26Jun2025 01:31:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
-[26Jun2025 01:32:00.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> los aldeanos no valen nada
-[26Jun2025 01:32:13.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> de hecho yo diría
-[26Jun2025 01:32:24.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que son un factor de riesgo
-[26Jun2025 01:32:29.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> llega uno de esos weyes
-[26Jun2025 01:32:38.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> se lo come y empieza a propagarse
-[26Jun2025 01:32:42.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lmao
-[26Jun2025 01:33:17.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5103ms or 102 ticks behind
-[26Jun2025 01:33:27.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QUE MIERDA
-[26Jun2025 01:33:34.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> HAY COMO UN DINOSAURIO ENORME
-[26Jun2025 01:33:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que
-[26Jun2025 01:33:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> INFECTADO
-[26Jun2025 01:33:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QYE
-[26Jun2025 01:33:40.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QUE
-[26Jun2025 01:33:42.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> donde
-[26Jun2025 01:33:45.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> coords
-[26Jun2025 01:33:45.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> QUE
-[26Jun2025 01:33:47.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> XDD
-[26Jun2025 01:33:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> 47
-[26Jun2025 01:33:57.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> -109
-[26Jun2025 01:34:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> -32 DE PROFUNDIDAD
-[26Jun2025 01:34:06.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
-[26Jun2025 01:34:11.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hazme tp porfa we
-[26Jun2025 01:34:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no seas así we
-[26Jun2025 01:35:12.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> DUERMAN HIJO DUERMAN
-[26Jun2025 01:35:15.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110302, l='ServerLevel[world]', x=764.50, y=30.00, z=147.50]
-[26Jun2025 01:35:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PERO SI NO HAGO TP PERRA
-[26Jun2025 01:35:17.806] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110374, l='ServerLevel[world]', x=755.50, y=28.00, z=145.50]
-[26Jun2025 01:35:17.807] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110375, l='ServerLevel[world]', x=755.50, y=27.00, z=145.50]
-[26Jun2025 01:35:17.807] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110376, l='ServerLevel[world]', x=755.50, y=28.00, z=146.50]
-[26Jun2025 01:35:17.807] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110377, l='ServerLevel[world]', x=755.50, y=27.00, z=146.50]
-[26Jun2025 01:35:17.808] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110378, l='ServerLevel[world]', x=755.50, y=28.00, z=147.50]
-[26Jun2025 01:35:17.808] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110379, l='ServerLevel[world]', x=752.50, y=27.00, z=148.50]
-[26Jun2025 01:35:17.808] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110380, l='ServerLevel[world]', x=751.50, y=26.00, z=148.50]
-[26Jun2025 01:35:17.808] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110381, l='ServerLevel[world]', x=752.50, y=26.00, z=148.50]
-[26Jun2025 01:35:17.809] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110382, l='ServerLevel[world]', x=756.50, y=29.00, z=148.50]
-[26Jun2025 01:35:18.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/110422, l='ServerLevel[world]', x=757.50, y=29.00, z=146.50]
-[26Jun2025 01:35:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> HAZME TP WEEEEEEE
-[26Jun2025 01:35:25.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ESTÁ BIEN
-[26Jun2025 01:35:28.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> su puta madre
-[26Jun2025 01:35:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> DUERMO
-[26Jun2025 01:35:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> AHS
-[26Jun2025 01:35:35.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> DUERME ISAI
-[26Jun2025 01:35:40.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> me salgo mejor
-[26Jun2025 01:35:40.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> O TE HAGO TP DONDE ESTOY YO
-[26Jun2025 01:35:40.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ISAI DUERME
-[26Jun2025 01:35:41.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isai_Pacheco lost connection: Disconnected
-[26Jun2025 01:35:41.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco left the game
-[26Jun2025 01:35:53.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> GRACIAS
-[26Jun2025 01:35:56.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ALAN
-[26Jun2025 01:35:59.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> LO ESPANTASTE
-[26Jun2025 01:35:59.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isai_Pacheco[/100.73.73.12:50283] logged in with entity id 111188 at (30.255343877211427, -29.0, -140.45997286373375)
-[26Jun2025 01:35:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco joined the game
-[26Jun2025 01:35:59.950] [Server thread/INFO] [Jade/]: Syncing config to Isai_Pacheco (d24a97c5-74cb-33b2-8e34-ad074712c2e1)
-[26Jun2025 01:36:06.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> e
-[26Jun2025 01:36:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> we
-[26Jun2025 01:36:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> es que no es un dinosaurio
-[26Jun2025 01:36:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
-[26Jun2025 01:36:22.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported AlanJCR to Isai_Pacheco]
-[26Jun2025 01:36:22.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tp
-[26Jun2025 01:36:23.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> es como una amalgama de estos cabrones
-[26Jun2025 01:36:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> AHHH
-[26Jun2025 01:36:34.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ISAI
-[26Jun2025 01:36:36.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> NO
-[26Jun2025 01:36:39.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> No estamos listos
-[26Jun2025 01:36:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
-[26Jun2025 01:36:42.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es una calamidad
-[26Jun2025 01:36:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que es?
-[26Jun2025 01:36:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> NETA
-[26Jun2025 01:36:48.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es como un boss
-[26Jun2025 01:36:51.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDDDD
-[26Jun2025 01:37:02.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> we
-[26Jun2025 01:37:03.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> es un boss y yo casualmente me lo encontré
-[26Jun2025 01:37:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> AAA
-[26Jun2025 01:37:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> como que
-[26Jun2025 01:37:08.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> vamos a morir si vamos a por el
-[26Jun2025 01:37:09.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> hay varias partes sin infeccion
-[26Jun2025 01:37:23.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> solo en la aldea y sus cercanias esta la infeccion
-[26Jun2025 01:37:23.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> pues mejor no voy alv
-[26Jun2025 01:37:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> AAAAAAAAAAA
-[26Jun2025 01:37:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> AHI ESTA
-[26Jun2025 01:37:59.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> CORRE
-[26Jun2025 01:37:59.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDDD
-[26Jun2025 01:38:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Super Creeps]
-[26Jun2025 01:38:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> wtg
-[26Jun2025 01:38:13.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> WTF
-[26Jun2025 01:38:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> Y ESA MAMADOTA QUE XDDD
-[26Jun2025 01:38:28.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> LA TORRE DE BABEL
-[26Jun2025 01:38:38.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> nos sigue?
-[26Jun2025 01:38:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> A NO
-[26Jun2025 01:38:43.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> es un templo infestado
-[26Jun2025 01:38:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> nos estaba siguiendo
-[26Jun2025 01:39:21.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> yo digo que nos larguemos asi de bros
-[26Jun2025 01:39:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> buena idea
-[26Jun2025 01:39:56.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> yo digo
-[26Jun2025 01:40:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> encontrar la cueva de radiación
-[26Jun2025 01:40:10.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> craftear una bomba atomica
-[26Jun2025 01:40:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> he irnos directo a por la mente colmena
-[26Jun2025 01:40:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> la detonamos ahi mismo
-[26Jun2025 01:40:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pero alguien moriria
-[26Jun2025 01:40:54.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> adios cueva
-[26Jun2025 01:41:09.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay que salir
-[26Jun2025 01:41:19.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> mira eso
-[26Jun2025 01:41:29.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> eso no lo hice yo para entrar
-[26Jun2025 01:41:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
-[26Jun2025 01:41:30.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XD
-[26Jun2025 01:41:44.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/117605, l='ServerLevel[world]', x=157.50, y=-4.00, z=-378.50]
-[26Jun2025 01:41:44.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/117606, l='ServerLevel[world]', x=156.50, y=-2.00, z=-377.50]
-[26Jun2025 01:41:44.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/117607, l='ServerLevel[world]', x=157.50, y=-5.00, z=-376.50]
-[26Jun2025 01:41:44.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/117608, l='ServerLevel[world]', x=156.50, y=-4.00, z=-376.50]
-[26Jun2025 01:41:44.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/117609, l='ServerLevel[world]', x=158.50, y=-4.00, z=-375.50]
-[26Jun2025 01:41:45.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> parece
-[26Jun2025 01:42:02.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> como si un gozilla hubiera lanzado un rayo
-[26Jun2025 01:42:04.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/117857, l='ServerLevel[world]', x=63.50, y=17.00, z=-358.50]
-[26Jun2025 01:43:19.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> VOY A ENTRAR
-[26Jun2025 01:43:35.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
-[26Jun2025 01:43:41.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> creo que ahi hay un nido
-[26Jun2025 01:43:45.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> WE
-[26Jun2025 01:43:53.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> HAY ESQUELETOS WHITER X
-[26Jun2025 01:43:59.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lmao
-[26Jun2025 01:44:00.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
-[26Jun2025 01:44:09.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> es un vergo te pollas negras
-[26Jun2025 01:44:17.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tengo un mapa
-[26Jun2025 01:44:34.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> de qye
-[26Jun2025 01:44:43.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> de una cabina subterranea dice
-[26Jun2025 01:45:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> eso creo que es
-[26Jun2025 01:45:15.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was slain by Specter
-[26Jun2025 01:45:15.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> whats
-[26Jun2025 01:45:17.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> el templo
-[26Jun2025 01:45:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> en donde estoy yo
-[26Jun2025 01:45:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ALAN
-[26Jun2025 01:45:32.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ISAI
-[26Jun2025 01:45:34.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ME ESTAN CULEANDO
-[26Jun2025 01:45:36.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> JAJAJA
-[26Jun2025 01:45:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was eaten alive by Isai_Pacheco
-[26Jun2025 01:45:53.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/120384, l='ServerLevel[world]', x=168.50, y=41.00, z=-360.50]
-[26Jun2025 01:45:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> HAY QUE SALIR DE AQUID
-[26Jun2025 01:45:55.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was slain by Isai_Pacheco
-[26Jun2025 01:46:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was slain by Specter
-[26Jun2025 01:46:28.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai que es un specter
-[26Jun2025 01:46:34.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> un creativo y ya uwu
-[26Jun2025 01:46:40.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> duermaaahn
-[26Jun2025 01:46:48.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> oigan
-[26Jun2025 01:46:50.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> no tengo cama
-[26Jun2025 01:46:56.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> salgamdese
-[26Jun2025 01:47:00.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ok
-[26Jun2025 01:47:01.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> O DUERMANAAAA
-[26Jun2025 01:47:04.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isai_Pacheco lost connection: Disconnected
-[26Jun2025 01:47:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco left the game
-[26Jun2025 01:47:12.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
-[26Jun2025 01:47:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
-[26Jun2025 01:47:24.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isai_Pacheco[/100.73.73.12:50420] logged in with entity id 121789 at (131.8463300290064, 71.0, -408.20998933730885)
-[26Jun2025 01:47:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco joined the game
-[26Jun2025 01:47:24.201] [Server thread/INFO] [Jade/]: Syncing config to Isai_Pacheco (d24a97c5-74cb-33b2-8e34-ad074712c2e1)
-[26Jun2025 01:47:29.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:50112] logged in with entity id 122278 at (135.3792399401615, 9.0, -277.1889154169517)
-[26Jun2025 01:47:29.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
-[26Jun2025 01:47:29.669] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
-[26Jun2025 01:48:41.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> encontré un puesto de pillagers
-[26Jun2025 01:48:43.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> infectados
-[26Jun2025 01:48:46.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> o algo asi
-[26Jun2025 01:50:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 01:50:12.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Meet the Spy]
-[26Jun2025 01:50:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav was slain by Wither Skeleton
-[26Jun2025 01:50:37.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 01:50:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to -21.500000, 102.500000, -2828.500000]
-[26Jun2025 01:50:57.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> estoy viendo como alan es brutalmente aniquilado
-[26Jun2025 01:50:58.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDD
-[26Jun2025 01:51:09.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que mierda
-[26Jun2025 01:51:19.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ME ASUSTÓ BIEN CAÑON
-[26Jun2025 01:51:24.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> xd
-[26Jun2025 01:51:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai
-[26Jun2025 01:51:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> nomames el de escandalosos
-[26Jun2025 01:51:39.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> toma diamantes
-[26Jun2025 01:51:42.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> JAJAJA
-[26Jun2025 01:51:43.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Pic-A-Nic Basket?]
-[26Jun2025 01:51:46.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Pic-A-Nic Basket?]
-[26Jun2025 01:51:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> qie
-[26Jun2025 01:51:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> pardo hijo de perra
-[26Jun2025 01:52:02.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> DIAMANTES
-[26Jun2025 01:52:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tengo mucho miedo
-[26Jun2025 01:52:36.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> gracias creeper
-[26Jun2025 01:53:34.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> alan mira el minimap
-[26Jun2025 01:53:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> hacia donde está el bosque rosa
-[26Jun2025 01:53:52.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que tiene
-[26Jun2025 01:53:57.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> nose we me da miedo
-[26Jun2025 01:54:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es un bosque de sakuras we
-[26Jun2025 01:54:15.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> no lo ves?
-[26Jun2025 01:54:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ahh
-[26Jun2025 01:54:19.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> es una estructura
-[26Jun2025 01:54:20.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> xd
-[26Jun2025 01:54:21.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> duhh
-[26Jun2025 01:55:02.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no hay nada
-[26Jun2025 01:55:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> no cambia nada
-[26Jun2025 01:55:26.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> pero no es seguro
-[26Jun2025 01:55:28.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ahorita vuelvo
-[26Jun2025 01:55:30.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> porque pueden spawnear
-[26Jun2025 01:55:38.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isai_Pacheco lost connection: Disconnected
-[26Jun2025 01:55:38.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco left the game
-[26Jun2025 01:55:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas que haces
-[26Jun2025 01:57:21.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/126389, l='ServerLevel[world]', x=-16.77, y=122.01, z=-2826.30] died: Dinnerbone was slain by Doglav
-[26Jun2025 01:57:31.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/129348, l='ServerLevel[world]', x=-23.70, y=123.01, z=-2834.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 01:59:27.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/128038, l='ServerLevel[world]', x=-21.73, y=123.01, z=-2837.30] died: Dinnerbone burned to death
-[26Jun2025 02:00:22.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130172, l='ServerLevel[world]', x=-47.70, y=130.01, z=-2846.10] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
-[26Jun2025 02:00:29.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130148, l='ServerLevel[world]', x=-47.70, y=130.01, z=-2839.18] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:00:31.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130170, l='ServerLevel[world]', x=-47.70, y=130.01, z=-2837.30] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
-[26Jun2025 02:00:32.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130519, l='ServerLevel[world]', x=-47.70, y=130.01, z=-2848.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:00:41.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130149, l='ServerLevel[world]', x=-37.30, y=130.01, z=-2847.70] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
-[26Jun2025 02:00:51.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130147, l='ServerLevel[world]', x=-40.00, y=130.01, z=-2845.01] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
-[26Jun2025 02:01:07.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/130160, l='ServerLevel[world]', x=-45.70, y=130.01, z=-2827.93] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:01:13.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/128841, l='ServerLevel[world]', x=-45.70, y=130.01, z=-2834.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:01:30.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/129152, l='ServerLevel[world]', x=-47.70, y=130.01, z=-2834.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:01:45.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/128842, l='ServerLevel[world]', x=-37.30, y=130.01, z=-2831.91] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:01:46.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/128384, l='ServerLevel[world]', x=-37.30, y=130.01, z=-2834.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:01:49.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/129858, l='ServerLevel[world]', x=-45.70, y=130.01, z=-2834.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:02:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 02:03:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav was slain by Wither Skeleton
-[26Jun2025 02:04:03.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 02:04:05.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to -12.500000, 126.500000, -2833.500000]
-[26Jun2025 02:04:32.861] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/132361, l='ServerLevel[world]', x=187.50, y=41.00, z=-475.50]
-[26Jun2025 02:06:04.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> a,a
-[26Jun2025 02:06:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ALAN
-[26Jun2025 02:06:07.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
-[26Jun2025 02:06:11.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ya no puedo-.---
-[26Jun2025 02:06:20.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que pasó
-[26Jun2025 02:06:43.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> necesito explotar esto de una bomba nuclear
-[26Jun2025 02:06:44.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> ALAN
-[26Jun2025 02:06:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> neta
-[26Jun2025 02:07:29.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132873, l='ServerLevel[world]', x=-15.30, y=138.01, z=-2826.30] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
-[26Jun2025 02:07:30.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132306, l='ServerLevel[world]', x=-23.61, y=138.01, z=-2826.30] died: Dinnerbone was burnt to a crisp whilst fighting Doglav
-[26Jun2025 02:07:41.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132305, l='ServerLevel[world]', x=-15.30, y=138.01, z=-2832.32] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:07:48.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/133406, l='ServerLevel[world]', x=-15.30, y=138.01, z=-2834.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:07:51.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/132181, l='ServerLevel[world]', x=-18.70, y=138.01, z=-2834.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:07:58.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> SUBO Y BUBO
-[26Jun2025 02:08:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PARA CORRER ABAJO
-[26Jun2025 02:08:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> SON UN VERGO
-[26Jun2025 02:08:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay keep?
-[26Jun2025 02:08:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hace rato vi a isai morir
-[26Jun2025 02:08:40.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> y tenía sus cosas
-[26Jun2025 02:08:44.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> no hay keep
-[26Jun2025 02:08:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> whats
-[26Jun2025 02:09:38.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es de noche?
-[26Jun2025 02:09:41.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> NO SE
-[26Jun2025 02:10:25.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> alan
-[26Jun2025 02:10:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> dile a isai que lo amow
-[26Jun2025 02:10:32.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Captain Hook]
-[26Jun2025 02:10:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Survival Mode]
-[26Jun2025 02:11:18.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Knight Quest]
-[26Jun2025 02:11:51.358] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/135911, l='ServerLevel[world]', x=400.50, y=25.00, z=-637.50]
-[26Jun2025 02:12:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> encontré una aldea
-[26Jun2025 02:12:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav was slain by Wither Skeleton
-[26Jun2025 02:12:33.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Set own game mode to Creative Mode]
-[26Jun2025 02:12:36.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doglav: Teleported Doglav to -12.500000, 134.500000, -2846.500000]
-[26Jun2025 02:13:28.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137804, l='ServerLevel[world]', x=275.50, y=-20.00, z=-867.50]
-[26Jun2025 02:13:28.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137805, l='ServerLevel[world]', x=274.50, y=-20.00, z=-866.50]
-[26Jun2025 02:13:28.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137806, l='ServerLevel[world]', x=276.50, y=-20.00, z=-866.50]
-[26Jun2025 02:13:28.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137807, l='ServerLevel[world]', x=271.50, y=-21.00, z=-865.50]
-[26Jun2025 02:13:30.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137827, l='ServerLevel[world]', x=277.50, y=-20.00, z=-866.50]
-[26Jun2025 02:13:30.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137828, l='ServerLevel[world]', x=276.50, y=-20.00, z=-865.50]
-[26Jun2025 02:13:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PERDI MI PUTA MOCHILAAAAAAAAAAAAA
-[26Jun2025 02:13:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> estás cocinado
-[26Jun2025 02:13:38.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137918, l='ServerLevel[world]', x=275.50, y=-15.00, z=-849.50]
-[26Jun2025 02:13:38.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/137919, l='ServerLevel[world]', x=277.50, y=-15.00, z=-849.50]
-[26Jun2025 02:14:09.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136607, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2847.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:14:14.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136601, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2847.70] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:14:21.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136602, l='ServerLevel[world]', x=-47.70, y=146.01, z=-2837.30] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:14:32.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136603, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2837.30] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:14:37.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/136605, l='ServerLevel[world]', x=-37.30, y=146.01, z=-2837.30] died: Dinnerbone was slain by Doglav
-[26Jun2025 02:15:08.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Timed out
-[26Jun2025 02:15:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
-[26Jun2025 02:20:51.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isai_Pacheco[/100.73.73.12:49857] logged in with entity id 140625 at (221.51791683857692, 111.0, -487.03487793815384)
-[26Jun2025 02:20:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco joined the game
-[26Jun2025 02:20:51.467] [Server thread/INFO] [Jade/]: Syncing config to Isai_Pacheco (d24a97c5-74cb-33b2-8e34-ad074712c2e1)
-[26Jun2025 02:21:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> HOLA
-[26Jun2025 02:21:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hola
-[26Jun2025 02:21:16.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai corre
-[26Jun2025 02:21:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> PQ
-[26Jun2025 02:21:34.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ven
-[26Jun2025 02:21:42.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> 106 59 -815
-[26Jun2025 02:21:56.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ahi está la dungeon
-[26Jun2025 02:24:04.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ves algo?
-[26Jun2025 02:24:10.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que cojones es eso
-[26Jun2025 02:24:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDDDD
-[26Jun2025 02:24:18.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tengo los chunks bajos
-[26Jun2025 02:24:21.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no veo nada
-[26Jun2025 02:24:26.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> parece una rana
-[26Jun2025 02:24:28.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDDDDDD
-[26Jun2025 02:24:31.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> lol
-[26Jun2025 02:24:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> es una nave we
-[26Jun2025 02:24:42.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay que subir wei
-[26Jun2025 02:24:45.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> va
-[26Jun2025 02:25:20.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> sería buena base no?
-[26Jun2025 02:25:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> si
-[26Jun2025 02:26:13.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no mames
-[26Jun2025 02:26:19.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> está infestada
-[26Jun2025 02:26:20.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [The Imperial March]
-[26Jun2025 02:26:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> de infectados
-[26Jun2025 02:26:28.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [The Imperial March]
-[26Jun2025 02:26:38.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco has made the advancement [Atlantis must be real]
-[26Jun2025 02:26:51.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR was kicked for floating too long!
-[26Jun2025 02:26:51.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Flying is not enabled on this server
-[26Jun2025 02:26:51.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
-[26Jun2025 02:27:11.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:50268] logged in with entity id 143269 at (62.44719337755405, 83.39032596166648, -830.4572113771927)
-[26Jun2025 02:27:11.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
-[26Jun2025 02:27:11.552] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
-[26Jun2025 02:27:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> NAAAAAAA
-[26Jun2025 02:27:26.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ME CAGÓ EL WATERDROP
-[26Jun2025 02:27:32.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR fell from a high place
-[26Jun2025 02:27:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> tirame agua
-[26Jun2025 02:30:51.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco burned to death
-[26Jun2025 02:31:06.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> hagan tp LOL
-[26Jun2025 02:31:14.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no puedo
-[26Jun2025 02:31:19.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> dile a doglas que me de OP
-[26Jun2025 02:31:21.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> alan si me salgo si se guardan mis cosas?
-[26Jun2025 02:31:25.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> si
-[26Jun2025 02:31:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> va
-[26Jun2025 02:31:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ahi te ves bro
-[26Jun2025 02:31:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco was slain by Infected Human
-[26Jun2025 02:31:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> mañana volveré por mis cosas
-[26Jun2025 02:31:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDD
-[26Jun2025 02:31:52.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isai_Pacheco lost connection: Disconnected
-[26Jun2025 02:31:52.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco left the game
-[26Jun2025 02:35:24.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/146075, l='ServerLevel[world]', x=69.50, y=207.00, z=-823.65] died: DawnsSlayers was slain by Wither Skeleton
-[26Jun2025 02:35:27.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/146074, l='ServerLevel[world]', x=68.78, y=207.00, z=-823.68] died: Whisper was slain by Wither Skeleton
-[26Jun2025 02:36:14.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Hot Stuff]
-[26Jun2025 02:36:33.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Spooky Scary Skeleton]
-[26Jun2025 02:44:15.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
-[26Jun2025 02:44:15.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
-[26Jun2025 02:45:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[26Jun2025 02:45:28.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Jun2025 02:45:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Jun2025 02:45:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Jun2025 02:45:28.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26Jun2025 02:45:28.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26Jun2025 02:45:28.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26Jun2025 02:45:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26Jun2025 02:45:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Jun2025 02:45:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Jun2025 02:45:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jun2025 17:08:35.394] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26Jun2025 17:08:35.398] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[26Jun2025 17:08:36.397] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Jun2025 17:08:36.464] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/normiland/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26Jun2025 17:08:36.824] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/normiland/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 17:08:36.826] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/normiland/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 17:08:36.827] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/normiland/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 17:08:36.828] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/normiland/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 17:08:37.083] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[26Jun2025 17:08:39.838] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Jun2025 17:08:39.875] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[26Jun2025 17:08:39.878] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[26Jun2025 17:08:39.991] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Jun2025 17:08:40.175] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Jun2025 17:08:40.177] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Jun2025 17:08:40.192] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 93 options available, 0 override(s) found
+[26Jun2025 17:08:40.228] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Jun2025 17:08:40.229] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Jun2025 17:08:41.834] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[26Jun2025 17:08:41.835] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[26Jun2025 17:08:41.835] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found accessories-common.mixins.json:LevelRendererAccessor
+[26Jun2025 17:08:42.168] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[26Jun2025 17:08:48.304] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin::handler$zge000$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[26Jun2025 17:08:50.542] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[26Jun2025 17:08:51.719] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[26Jun2025 17:08:51.728] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[26Jun2025 17:08:51.738] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[26Jun2025 17:08:51.752] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[26Jun2025 17:08:51.758] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[26Jun2025 17:08:51.762] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[26Jun2025 17:08:51.763] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[26Jun2025 17:08:51.765] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[26Jun2025 17:08:52.081] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Jun2025 17:08:52.088] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Jun2025 17:08:52.123] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[26Jun2025 17:08:52.124] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[26Jun2025 17:08:52.351] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[26Jun2025 17:08:52.716] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[26Jun2025 17:08:52.739] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[26Jun2025 17:08:52.740] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[26Jun2025 17:08:56.510] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[26Jun2025 17:08:56.522] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
+[26Jun2025 17:08:56.524] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
+[26Jun2025 17:08:56.525] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[26Jun2025 17:08:56.679] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[26Jun2025 17:08:56.680] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[26Jun2025 17:08:56.682] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[26Jun2025 17:08:56.731] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
+[26Jun2025 17:08:56.911] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[26Jun2025 17:08:57.220] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Jun2025 17:08:57.539] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[26Jun2025 17:08:57.540] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[26Jun2025 17:08:57.540] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[26Jun2025 17:08:57.540] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[26Jun2025 17:08:57.540] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[26Jun2025 17:08:57.540] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[26Jun2025 17:08:57.541] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[26Jun2025 17:08:57.597] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[26Jun2025 17:08:57.599] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[26Jun2025 17:08:57.605] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[26Jun2025 17:08:57.606] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[26Jun2025 17:08:57.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[26Jun2025 17:08:57.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[26Jun2025 17:08:57.692] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[26Jun2025 17:08:57.700] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[26Jun2025 17:08:57.701] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[26Jun2025 17:08:57.715] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[26Jun2025 17:08:57.721] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[26Jun2025 17:08:57.723] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[26Jun2025 17:08:58.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[26Jun2025 17:08:58.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[26Jun2025 17:08:58.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[26Jun2025 17:09:01.711] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Jun2025 17:09:03.853] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/normiland/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/assets/.mcassetsroot' uses unexpected schema
+[26Jun2025 17:09:03.854] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/normiland/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/data/.mcassetsroot' uses unexpected schema
+[26Jun2025 17:09:06.000] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[26Jun2025 17:09:07.180] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[26Jun2025 17:09:07.213] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[26Jun2025 17:09:07.237] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
+com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23184!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23184!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23184!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[26Jun2025 17:09:07.257] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[26Jun2025 17:09:07.262] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[26Jun2025 17:09:07.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[26Jun2025 17:09:07.323] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[26Jun2025 17:09:07.348] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[26Jun2025 17:09:07.349] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement knightquest:recipes/misc/empty_goblet: Missing criteria, expected to find a JsonObject
+[26Jun2025 17:09:07.414] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[26Jun2025 17:09:07.428] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[26Jun2025 17:09:07.473] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2271 advancements
+[26Jun2025 17:09:07.485] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
+[26Jun2025 17:09:07.519] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[26Jun2025 17:09:07.529] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[26Jun2025 17:09:09.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Jun2025 17:09:09.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Jun2025 17:09:09.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Jun2025 17:09:09.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Jun2025 17:09:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Jun2025 17:09:09.445] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Jun2025 17:09:09.568] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Jun2025 17:09:09.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Jun2025 17:09:09.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Jun2025 17:09:09.570] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Jun2025 17:09:09.911] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[26Jun2025 17:09:10.481] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[26Jun2025 17:09:10.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Jun2025 17:09:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Jun2025 17:09:19.758] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:19.807] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:19.831] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:19.833] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:19.905] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:20.410] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:20.913] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:21.428] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:22.204] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:22.648] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:22.904] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:23.407] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:23.904] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 17:09:24.401] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[26Jun2025 17:09:24.901] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[26Jun2025 17:09:25.401] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[26Jun2025 17:09:25.540] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7639 ms
+[26Jun2025 17:09:25.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.951s)! For help, type "help"
+[26Jun2025 17:09:25.601] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Jun2025 17:09:29.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[26Jun2025 17:11:12.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlanJCR[/100.109.225.113:50650] logged in with entity id 302 at (11.7749954989046, 208.5625, -827.1988387417896)
+[26Jun2025 17:11:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR joined the game
+[26Jun2025 17:11:12.993] [Server thread/INFO] [Jade/]: Syncing config to AlanJCR (690e2115-c513-380b-b061-413c46de03be)
+[26Jun2025 17:11:15.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[26Jun2025 17:15:31.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isai_Pacheco[/100.73.73.12:49852] logged in with entity id 1197 at (135.5, 65.0, -303.5)
+[26Jun2025 17:15:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isai_Pacheco joined the game
+[26Jun2025 17:15:31.788] [Server thread/INFO] [Jade/]: Syncing config to Isai_Pacheco (d24a97c5-74cb-33b2-8e34-ad074712c2e1)
+[26Jun2025 17:15:36.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai
+[26Jun2025 17:15:42.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> está infestado
+[26Jun2025 17:15:47.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> no de infectados pero si de withers
+[26Jun2025 17:17:04.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has reached the goal [Half a flight]
+[26Jun2025 17:17:37.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:49949] logged in with entity id 2427 at (-46.15551778350608, 145.86859856141194, -2838.437971666756)
+[26Jun2025 17:17:37.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[26Jun2025 17:17:37.808] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[26Jun2025 17:17:46.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> doglas
+[26Jun2025 17:17:50.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> dame op we
+[26Jun2025 17:17:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> para ayudar a pacheco

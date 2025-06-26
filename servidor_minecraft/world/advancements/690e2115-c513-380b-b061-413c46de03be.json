@@ -2497,7 +2497,8 @@
       "spider_nest": "2025-06-25 21:31:51 +0000",
       "redwood_forest": "2025-06-25 23:38:54 +0000",
       "grassland": "2025-06-25 23:40:07 +0000",
-      "prairie": "2025-06-26 01:49:54 +0000"
+      "prairie": "2025-06-26 01:49:54 +0000",
+      "undergrowth": "2025-06-26 19:07:14 +0000"
     },
     "done": false
   },
@@ -3137,9 +3138,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-26 19:06:30 +0000"
+    },
+    "done": false
+  },
   "spore:braiomil": {
     "criteria": {
       "hurt_infected": "2025-06-26 17:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-26 19:04:10 +0000"
     },
     "done": true
   },
@@ -3152,6 +3165,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-06-26 18:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-26 19:06:28 +0000"
     },
     "done": true
   },
@@ -3212,6 +3231,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-26 18:01:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-06-26 19:07:33 +0000"
     },
     "done": true
   },
@@ -3491,6 +3516,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-26 19:06:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 18:11:56 +0000"
@@ -3644,6 +3675,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-26 17:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-26 19:08:27 +0000"
     },
     "done": true
   },

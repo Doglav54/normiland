@@ -473,3 +473,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Jun2025 18:59:07.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
 [26Jun2025 18:59:07.023] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
 [26Jun2025 18:59:19.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hola dgolas
+[26Jun2025 19:00:38.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> jodinees tio
+[26Jun2025 19:00:42.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Set own game mode to Survival Mode]
+[26Jun2025 19:01:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Set own game mode to Creative Mode]
+[26Jun2025 19:02:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Set own game mode to Survival Mode]
+[26Jun2025 19:03:00.048] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/53399, l='ServerLevel[world]', x=-416.50, y=-1.00, z=-1050.50]
+[26Jun2025 19:03:30.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> alan popo
+[26Jun2025 19:03:44.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> porque me insultas
+[26Jun2025 19:04:06.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Set own game mode to Creative Mode]
+[26Jun2025 19:04:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Set own game mode to Survival Mode]
+[26Jun2025 19:04:31.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Set own game mode to Creative Mode]
+[26Jun2025 19:04:41.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Set own game mode to Survival Mode]
+[26Jun2025 19:04:47.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jun2025 19:04:47.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deanop alanjcr<--[HERE]
+[26Jun2025 19:05:23.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Ike'/55756, l='ServerLevel[world]', x=-438.29, y=43.00, z=-1075.30] died: Ike suffocated in a wall
+[26Jun2025 19:06:04.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56032, l='ServerLevel[world]', x=-23.70, y=178.01, z=-2826.30] died: Dinnerbone was slain by Doglav
+[26Jun2025 19:06:16.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53625, l='ServerLevel[world]', x=-23.70, y=178.01, z=-2834.70] died: Dinnerbone was slain by Doglav
+[26Jun2025 19:06:26.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/55110, l='ServerLevel[world]', x=-20.70, y=178.01, z=-2828.73] died: Dinnerbone was slain by Doglav
+[26Jun2025 19:06:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [We Need to Go Deeper]
+[26Jun2025 19:06:30.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[26Jun2025 19:07:04.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/55437, l='ServerLevel[world]', x=-23.70, y=178.01, z=-2834.70] died: Dinnerbone was slain by Doglav
+[26Jun2025 19:07:14.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54845, l='ServerLevel[world]', x=-13.30, y=178.01, z=-2826.30] died: Dinnerbone was slain by Doglav
+[26Jun2025 19:07:25.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/55436, l='ServerLevel[world]', x=-23.70, y=178.01, z=-2834.70] died: Dinnerbone was slain by Doglav
+[26Jun2025 19:07:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> alan
+[26Jun2025 19:07:41.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> PIPI
+[26Jun2025 19:07:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> q
+[26Jun2025 19:07:56.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> maldito
+[26Jun2025 19:07:58.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> donde etas
+[26Jun2025 19:08:42.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> voy por ti
+[26Jun2025 19:08:45.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> donde estas
+[26Jun2025 19:08:53.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> nether
+[26Jun2025 19:08:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> we
+[26Jun2025 19:09:00.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay nuevos
+[26Jun2025 19:09:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> biomas
+[26Jun2025 19:09:23.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Over-juiced]
+[26Jun2025 19:09:24.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> el mod de biomas tambien pone en el nether
+[26Jun2025 19:09:24.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has made the advancement [Sir Arthur is that you ?]
+[26Jun2025 19:10:00.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Nightmare Fuel]

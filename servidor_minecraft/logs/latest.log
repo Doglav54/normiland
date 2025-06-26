@@ -255,3 +255,40 @@
 [26Jun2025 01:12:23.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/88967, l='ServerLevel[world]', x=-2.50, y=10.00, z=-259.50]
 [26Jun2025 01:13:00.293] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/89583, l='ServerLevel[world]', x=134.50, y=-1.00, z=-227.50]
 [26Jun2025 01:13:43.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> DUERME
+[26Jun2025 01:19:34.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav has completed the challenge [Free Willy]
+[26Jun2025 01:19:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> QUE PEDO
+[26Jun2025 01:19:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
+[26Jun2025 01:20:02.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> solo nade debajo de una orca y ya
+[26Jun2025 01:20:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> nada mas
+[26Jun2025 01:20:13.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> debajo de la mamá de nicolás
+[26Jun2025 01:20:15.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> lmao
+[26Jun2025 01:20:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> mentira
+[26Jun2025 01:21:43.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96652, l='ServerLevel[world]', x=356.37, y=83.00, z=-2592.28] died, message: 'Unemployed suffocated in a wall'
+[26Jun2025 01:22:28.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/96567, l='ServerLevel[world]', x=346.52, y=75.00, z=-2572.37] died, message: 'Farmer froze to death'
+[26Jun2025 01:23:08.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6685ms or 133 ticks behind
+[26Jun2025 01:24:04.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96586, l='ServerLevel[world]', x=341.45, y=75.00, z=-2576.63] died, message: 'Unemployed froze to death'
+[26Jun2025 01:24:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> isai
+[26Jun2025 01:24:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> creo que encontre algo importante
+[26Jun2025 01:24:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
+[26Jun2025 01:24:21.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> pero duerme
+[26Jun2025 01:24:24.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ok
+[26Jun2025 01:24:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doglav> YA SE HARA DE NOCHE
+[26Jun2025 01:24:39.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99150, l='ServerLevel[world]', x=139.50, y=-1.00, z=-236.50]
+[26Jun2025 01:24:39.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99151, l='ServerLevel[world]', x=139.50, y=-2.00, z=-236.50]
+[26Jun2025 01:24:39.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99152, l='ServerLevel[world]', x=141.50, y=-3.00, z=-235.50]
+[26Jun2025 01:24:39.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99153, l='ServerLevel[world]', x=140.50, y=-3.00, z=-234.50]
+[26Jun2025 01:24:39.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99154, l='ServerLevel[world]', x=139.50, y=-1.00, z=-234.50]
+[26Jun2025 01:24:42.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/96590, l='ServerLevel[world]', x=341.74, y=75.00, z=-2576.01] died, message: 'Armorer froze to death'
+[26Jun2025 01:24:43.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99251, l='ServerLevel[world]', x=136.50, y=-1.00, z=-233.50]
+[26Jun2025 01:24:43.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99252, l='ServerLevel[world]', x=139.50, y=-1.00, z=-233.50]
+[26Jun2025 01:24:43.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99253, l='ServerLevel[world]', x=138.50, y=-2.00, z=-232.50]
+[26Jun2025 01:24:43.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99254, l='ServerLevel[world]', x=136.50, y=-2.00, z=-232.50]
+[26Jun2025 01:24:43.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99255, l='ServerLevel[world]', x=139.50, y=3.00, z=-232.50]
+[26Jun2025 01:24:43.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99256, l='ServerLevel[world]', x=139.50, y=2.00, z=-232.50]
+[26Jun2025 01:24:43.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99257, l='ServerLevel[world]', x=138.50, y=3.00, z=-232.50]
+[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99258, l='ServerLevel[world]', x=136.50, y=-3.00, z=-231.50]
+[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99259, l='ServerLevel[world]', x=139.50, y=-2.00, z=-231.50]
+[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99260, l='ServerLevel[world]', x=136.50, y=-1.00, z=-231.50]
+[26Jun2025 01:24:43.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99261, l='ServerLevel[world]', x=138.50, y=2.00, z=-231.50]
+[26Jun2025 01:24:43.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99262, l='ServerLevel[world]', x=137.50, y=3.00, z=-230.50]
+[26Jun2025 01:24:43.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/99263, l='ServerLevel[world]', x=138.50, y=-2.00, z=-229.50]

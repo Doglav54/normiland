@@ -1739,6 +1739,12 @@
     },
     "done": true
   },
+  "spore:umarmed": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 00:09:09 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-06-25 23:47:30 +0000"

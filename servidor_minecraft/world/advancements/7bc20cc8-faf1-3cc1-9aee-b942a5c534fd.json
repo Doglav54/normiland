@@ -19,6 +19,7 @@
       "minecraft:frozen_river": "2025-06-26 01:34:30 +0000",
       "minecraft:cherry_grove": "2025-06-26 00:43:36 +0000",
       "minecraft:sunflower_plains": "2025-06-26 00:45:15 +0000",
+      "minecraft:birch_forest": "2025-06-26 21:07:17 +0000",
       "minecraft:river": "2025-06-24 22:30:59 +0000",
       "minecraft:snowy_plains": "2025-06-26 01:21:19 +0000",
       "minecraft:stony_shore": "2025-06-26 01:12:38 +0000",
@@ -309,6 +310,7 @@
       "bread": "2025-06-24 22:35:00 +0000",
       "golden_apple": "2025-06-26 02:10:47 +0000",
       "cookie": "2025-06-24 22:44:26 +0000",
+      "rotten_flesh": "2025-06-26 20:33:30 +0000",
       "golden_carrot": "2025-06-26 02:02:31 +0000"
     },
     "done": false
@@ -1733,16 +1735,23 @@
     "criteria": {
       "snowblossom_grove": "2025-06-26 19:32:32 +0000",
       "highland": "2025-06-26 19:36:15 +0000",
+      "mystic_grove": "2025-06-26 21:09:10 +0000",
       "cold_desert": "2025-06-26 01:21:23 +0000",
       "maple_woods": "2025-06-26 00:53:30 +0000",
       "field": "2025-06-26 19:31:33 +0000",
+      "overgrown_greens": "2025-06-26 21:06:55 +0000",
       "coniferous_forest": "2025-06-26 00:46:10 +0000",
+      "forested_field": "2025-06-26 21:10:13 +0000",
+      "spider_nest": "2025-06-26 21:18:16 +0000",
+      "redwood_forest": "2025-06-26 21:06:41 +0000",
       "aspen_glade": "2025-06-26 19:37:34 +0000",
       "seasonal_forest": "2025-06-26 19:36:12 +0000",
       "fir_clearing": "2025-06-26 00:47:26 +0000",
       "prairie": "2025-06-25 23:42:05 +0000",
       "snowy_fir_clearing": "2025-06-26 01:36:28 +0000",
-      "snowy_coniferous_forest": "2025-06-26 19:34:19 +0000"
+      "snowy_coniferous_forest": "2025-06-26 19:34:19 +0000",
+      "gravel_beach": "2025-06-26 20:50:33 +0000",
+      "crag": "2025-06-26 21:13:43 +0000"
     },
     "done": false
   },
@@ -2042,9 +2051,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-26 20:51:56 +0000",
       "minecraft:skeleton": "2025-06-26 00:50:00 +0000",
+      "minecraft:vindicator": "2025-06-26 21:04:48 +0000",
       "minecraft:spider": "2025-06-26 01:54:27 +0000",
       "minecraft:creeper": "2025-06-26 01:44:52 +0000",
+      "minecraft:evoker": "2025-06-26 21:04:53 +0000",
       "minecraft:wither_skeleton": "2025-06-26 01:44:29 +0000",
       "minecraft:cave_spider": "2025-06-26 01:52:39 +0000",
       "minecraft:zombie": "2025-06-26 01:43:07 +0000",
@@ -2613,6 +2625,72 @@
   "spore:inf_player": {
     "criteria": {
       "hurt_infected": "2025-06-26 19:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-26 20:57:26 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-26 21:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-26 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-26 20:55:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-06-26 20:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-26 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-26 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-06-26 20:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-26 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-26 20:48:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-06-26 21:14:21 +0000"
     },
     "done": true
   },

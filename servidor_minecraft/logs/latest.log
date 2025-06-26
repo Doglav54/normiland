@@ -886,3 +886,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Jun2025 20:11:20.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> ok
 [26Jun2025 20:11:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> luego le hago tp a la base
 [26Jun2025 20:11:31.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai
+[26Jun2025 20:11:35.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AlanJCR a server operator
+[26Jun2025 20:11:38.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[26Jun2025 20:11:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made alanjcrf a server operator
+[26Jun2025 20:11:59.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> que
+[26Jun2025 20:12:11.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[26Jun2025 20:12:11.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Gamerule keepInventory is now set to: true]
+[26Jun2025 20:12:22.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doglav lost connection: Disconnected
+[26Jun2025 20:12:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav left the game
+[26Jun2025 20:12:34.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> isai aqui hay una cama
+[26Jun2025 20:12:37.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> en la base
+[26Jun2025 20:12:40.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> me tepeo a tu?
+[26Jun2025 20:12:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QUE
+[26Jun2025 20:12:52.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que miedo we
+[26Jun2025 20:12:52.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> yo aqui tengo para cama
+[26Jun2025 20:13:05.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> duermo?
+[26Jun2025 20:13:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> escuchaste eso?
+[26Jun2025 20:13:13.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> si
+[26Jun2025 20:13:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> si quieres
+[26Jun2025 20:13:59.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ya
+[26Jun2025 20:14:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> duerme we
+[26Jun2025 20:14:22.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlanJCR: Teleported AlanJCR to Isai_Pacheco]
+[26Jun2025 20:15:14.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> alan descarado
+[26Jun2025 20:15:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> mira
+[26Jun2025 20:17:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> apoco no está chida la casa
+[26Jun2025 20:17:30.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> está grande
+[26Jun2025 20:18:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Over-juiced]
+[26Jun2025 20:18:45.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que
+[26Jun2025 20:18:58.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> hay algunos infectados por aca
+[26Jun2025 20:19:24.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> si vi
+[26Jun2025 20:20:21.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> cuidado con las gaviotas
+[26Jun2025 20:20:22.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> mira esto
+[26Jun2025 20:20:30.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:50184] logged in with entity id 144839 at (-1293.300000011921, 86.0, -5254.390056757245)
+[26Jun2025 20:20:30.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[26Jun2025 20:20:30.901] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[26Jun2025 20:20:37.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> bro
+[26Jun2025 20:20:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hay un item
+[26Jun2025 20:20:52.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> que te deja caminar sobre el agua
+[26Jun2025 20:20:58.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> ENSERIO
+[26Jun2025 20:20:59.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> XDDDDDDD
+[26Jun2025 20:21:00.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> asi como jesus
+[26Jun2025 20:21:10.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> encima que no me da oxigeno ilimitado
+[26Jun2025 20:21:14.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> es una poronga
+[26Jun2025 20:21:17.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> las gaviotas roban items
+[26Jun2025 20:21:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> del inventario
+[26Jun2025 20:21:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> apoco
+[26Jun2025 20:21:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isai_Pacheco> QUE
+[26Jun2025 20:21:28.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> si
+[26Jun2025 20:21:36.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> por eso te dije cuidado

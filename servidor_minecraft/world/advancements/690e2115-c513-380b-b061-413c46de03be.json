@@ -18,6 +18,7 @@
       "minecraft:cherry_grove": "2025-06-26 01:54:54 +0000",
       "minecraft:sunflower_plains": "2025-06-26 02:11:25 +0000",
       "minecraft:birch_forest": "2025-06-26 17:57:05 +0000",
+      "minecraft:beach": "2025-06-26 20:19:59 +0000",
       "minecraft:dark_forest": "2025-06-26 17:57:13 +0000",
       "minecraft:river": "2025-06-24 22:57:01 +0000",
       "minecraft:dripstone_caves": "2025-06-25 00:18:00 +0000",
@@ -1134,6 +1135,7 @@
       "minecraft:phantom": "2025-06-26 17:27:39 +0000",
       "minecraft:zombified_piglin": "2025-06-26 19:31:42 +0000",
       "minecraft:wither_skeleton": "2025-06-26 02:26:40 +0000",
+      "minecraft:husk": "2025-06-26 20:14:52 +0000",
       "minecraft:cave_spider": "2025-06-26 01:43:11 +0000",
       "minecraft:zombie": "2025-06-24 23:36:55 +0000",
       "minecraft:zombie_villager": "2025-06-25 23:30:36 +0000"
@@ -3773,6 +3775,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-26 20:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-26 19:16:38 +0000"
@@ -4064,6 +4072,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-26 18:11:56 +0000"
+    },
+    "done": true
+  },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 20:18:26 +0000"
     },
     "done": true
   },

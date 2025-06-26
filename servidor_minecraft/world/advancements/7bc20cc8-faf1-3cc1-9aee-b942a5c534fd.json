@@ -2460,27 +2460,39 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/veteran_helmet": {
-    "criteria": {
-      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
-    },
-    "done": true
-  },
-  "spore:braiomil": {
-    "criteria": {
-      "hurt_infected": "2025-06-26 17:33:08 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/zombie_leggings": {
     "criteria": {
       "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/shinobi_leggings": {
+  "knightquest:recipes/misc/zombie_helmet2": {
     "criteria": {
-      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:28:11 +0000"
     },
     "done": true
   },
@@ -2490,9 +2502,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/zombie_helmet2": {
+  "knightquest:recipes/misc/veteran_helmet": {
     "criteria": {
-      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
     },
     "done": true
   },
@@ -2514,12 +2532,6 @@
     },
     "done": true
   },
-  "spore:inf_pillager": {
-    "criteria": {
-      "hurt_infected": "2025-06-26 17:28:11 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/veteran_boots": {
     "criteria": {
       "has_diamond_sword": "2025-06-26 17:32:25 +0000"
@@ -2532,39 +2544,27 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/zombie_helmet": {
-    "criteria": {
-      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/zombie_chestplate": {
-    "criteria": {
-      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/veteran_leggings": {
     "criteria": {
       "has_diamond_sword": "2025-06-26 17:32:25 +0000"
     },
     "done": true
   },
-  "spore:busser": {
+  "spore:braiomil": {
     "criteria": {
-      "hurt_by_infected": "2025-06-26 17:33:31 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/zombie_boots": {
-    "criteria": {
-      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+      "hurt_infected": "2025-06-26 17:33:08 +0000"
     },
     "done": true
   },
   "spore:brute": {
     "criteria": {
       "hurt_infected": "2025-06-26 17:33:14 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 17:33:31 +0000"
     },
     "done": true
   },

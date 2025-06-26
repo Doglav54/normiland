@@ -468,3 +468,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Jun2025 18:23:30.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/33272, l='ServerLevel[world]', x=-430.50, y=-8.00, z=-1018.50]
 [26Jun2025 18:27:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR has made the advancement [Enchanter]
 [26Jun2025 18:34:39.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[26Jun2025 18:58:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AlanJCR a server operator
+[26Jun2025 18:59:06.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doglav[/100.119.44.74:50016] logged in with entity id 48961 at (-21.718960339319, 158.0625, -2826.4302231531838)
+[26Jun2025 18:59:07.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doglav joined the game
+[26Jun2025 18:59:07.023] [Server thread/INFO] [Jade/]: Syncing config to Doglav (7bc20cc8-faf1-3cc1-9aee-b942a5c534fd)
+[26Jun2025 18:59:19.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlanJCR> hola dgolas

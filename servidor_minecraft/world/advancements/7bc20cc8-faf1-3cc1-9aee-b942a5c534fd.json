@@ -1731,12 +1731,18 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "snowblossom_grove": "2025-06-26 19:32:32 +0000",
+      "highland": "2025-06-26 19:36:15 +0000",
       "cold_desert": "2025-06-26 01:21:23 +0000",
       "maple_woods": "2025-06-26 00:53:30 +0000",
+      "field": "2025-06-26 19:31:33 +0000",
       "coniferous_forest": "2025-06-26 00:46:10 +0000",
+      "aspen_glade": "2025-06-26 19:37:34 +0000",
+      "seasonal_forest": "2025-06-26 19:36:12 +0000",
       "fir_clearing": "2025-06-26 00:47:26 +0000",
       "prairie": "2025-06-25 23:42:05 +0000",
-      "snowy_fir_clearing": "2025-06-26 01:36:28 +0000"
+      "snowy_fir_clearing": "2025-06-26 01:36:28 +0000",
+      "snowy_coniferous_forest": "2025-06-26 19:34:19 +0000"
     },
     "done": false
   },
@@ -2568,15 +2574,33 @@
     },
     "done": true
   },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 19:09:23 +0000"
+    },
+    "done": true
+  },
   "spore:knight": {
     "criteria": {
       "hurt_infected": "2025-06-26 19:09:24 +0000"
     },
     "done": true
   },
-  "spore:leaper": {
+  "spore:griefer": {
     "criteria": {
-      "hurt_infected": "2025-06-26 19:09:23 +0000"
+      "hurt_by_infected": "2025-06-26 19:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-26 19:12:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-26 19:12:50 +0000"
     },
     "done": true
   },

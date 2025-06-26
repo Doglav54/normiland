@@ -2184,6 +2184,138 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-26 01:29:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-06-26 01:38:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2025-06-26 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2025-06-26 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2025-06-26 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2025-06-26 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_boots": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_boots": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_helmet": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_helmet": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_leggings": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_leggings": {
+    "criteria": {
+      "has_spider_eye": "2025-06-26 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-26 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-26 02:05:38 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/warlord_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
@@ -2193,12 +2325,6 @@
   "knightquest:recipes/misc/bamboo_blue_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_boots": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
     },
     "done": true
   },
@@ -2226,21 +2352,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/apple_helmet": {
-    "criteria": {
-      "has_golden_apple": "2025-06-26 01:52:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-06-26 01:58:41 +0000"
     },
     "done": true
   },
@@ -2262,24 +2376,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/spider_boots": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-06-26 01:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-06-26 01:29:59 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bamboo_blue_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
@@ -2292,21 +2388,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-06-26 01:58:41 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/warlord_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-06-26 01:58:41 +0000"
     },
     "done": true
   },
@@ -2316,21 +2400,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/apple_leggings": {
-    "criteria": {
-      "has_golden_apple": "2025-06-26 01:52:25 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2025-06-26 01:38:08 +0000"
     },
     "done": true
   },
@@ -2340,27 +2412,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/forze_chestplate": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/warlord_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
-    },
-    "done": true
-  },
-  "knightquest:knightquest": {
-    "criteria": {
-      "requirement": "2025-06-26 02:11:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
     },
     "done": true
   },
@@ -2370,33 +2424,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/forze_helmet": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-26 02:05:38 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_helmet": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_boots": {
-    "criteria": {
-      "has_golden_apple": "2025-06-26 01:52:25 +0000"
     },
     "done": true
   },
@@ -2412,51 +2442,129 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/apple_chestplate": {
-    "criteria": {
-      "has_golden_apple": "2025-06-26 01:52:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-06-26 01:58:41 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_chestplate": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/forze_leggings": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-06-26 01:58:41 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_leggings": {
-    "criteria": {
-      "has_spider_eye": "2025-06-26 01:52:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-26 02:11:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "spore:braiomil": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:33:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_husk": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet2": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:28:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 17:33:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-26 17:19:21 +0000"
+    },
+    "done": true
+  },
+  "spore:brute": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:33:14 +0000"
     },
     "done": true
   },

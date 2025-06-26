@@ -581,6 +581,7 @@
       "beef": "2025-06-24 23:43:15 +0000",
       "porkchop": "2025-06-24 23:36:17 +0000",
       "mutton": "2025-06-24 23:43:21 +0000",
+      "golden_carrot": "2025-06-26 17:31:01 +0000",
       "cooked_chicken": "2025-06-24 23:46:14 +0000"
     },
     "done": false
@@ -984,8 +985,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-26 00:41:42 +0000",
+      "minecraft:hoglin": "2025-06-26 17:28:42 +0000",
       "minecraft:spider": "2025-06-24 23:49:06 +0000",
       "minecraft:creeper": "2025-06-26 01:13:37 +0000",
+      "minecraft:phantom": "2025-06-26 17:31:07 +0000",
       "minecraft:wither_skeleton": "2025-06-26 02:29:05 +0000",
       "minecraft:cave_spider": "2025-06-26 00:51:04 +0000",
       "minecraft:zombie": "2025-06-24 23:50:25 +0000"
@@ -2571,6 +2574,24 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-06-26 02:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-26 02:26:34 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_drowned": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 02:26:38 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-06-26 02:30:34 +0000"
@@ -2601,12 +2622,6 @@
     },
     "done": true
   },
-  "spore:inf_drowned": {
-    "criteria": {
-      "hurt_by_infected": "2025-06-26 02:26:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-26 02:30:34 +0000"
@@ -2619,27 +2634,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2025-06-26 02:26:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-26 02:30:34 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
-    "criteria": {
-      "location0": "2025-06-26 02:26:28 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/shield_boots": {
     "criteria": {
       "has_copper_ingot": "2025-06-26 02:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-26 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "spore:knight": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 17:30:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-26 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-26 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-06-26 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-26 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-26 17:26:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-26 17:31:09 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-06-26 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-26 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },

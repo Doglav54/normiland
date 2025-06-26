@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-06-26 01:54:54 +0000",
       "minecraft:river": "2025-06-24 22:57:01 +0000",
       "minecraft:dripstone_caves": "2025-06-25 00:18:00 +0000",
       "minecraft:forest": "2025-06-25 23:36:08 +0000",
@@ -535,6 +536,7 @@
       "cooked_porkchop": "2025-06-24 23:46:26 +0000",
       "cooked_mutton": "2025-06-24 23:46:45 +0000",
       "cooked_beef": "2025-06-24 23:03:17 +0000",
+      "golden_apple": "2025-06-26 01:50:49 +0000",
       "cooked_chicken": "2025-06-26 01:43:03 +0000",
       "carrot": "2025-06-25 00:27:46 +0000"
     },
@@ -2482,7 +2484,8 @@
       "overgrown_greens": "2025-06-25 23:39:15 +0000",
       "spider_nest": "2025-06-25 21:31:51 +0000",
       "redwood_forest": "2025-06-25 23:38:54 +0000",
-      "grassland": "2025-06-25 23:40:07 +0000"
+      "grassland": "2025-06-25 23:40:07 +0000",
+      "prairie": "2025-06-26 01:49:54 +0000"
     },
     "done": false
   },
@@ -2741,6 +2744,18 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-06-26 01:33:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-26 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 01:50:12 +0000"
     },
     "done": true
   },

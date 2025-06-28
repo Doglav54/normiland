@@ -2465,3 +2465,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Jun2025 23:47:26.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
 [27Jun2025 23:49:28.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 23:49:28.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 23:54:28.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 23:54:28.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 23:54:45.717] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Jun2025 23:54:45.718] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from accessories-common.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Jun2025 23:58:30.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -1.1067231099919468,5.078976261659179,-9.40201316348066
+[27Jun2025 23:58:46.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 5.0805035423853155,6.632500640084075,6.227152543309558
+[27Jun2025 23:58:52.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 3.3837594513443037,7.412476257140014,6.409026134670967
+[27Jun2025 23:59:00.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 2.3668665648043543,6.4916486973117316,7.6368310775210375
+[27Jun2025 23:59:06.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! 3.6090093968195447,6.877408070741296,6.887505497272059
+[27Jun2025 23:59:22.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[27Jun2025 23:59:30.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 23:59:30.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 00:00:51.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR moved too quickly! -7.8675560492259535,6.743419815960522,-0.9793055190522182
+[28Jun2025 00:01:02.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlanJCR lost connection: Disconnected
+[28Jun2025 00:01:02.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlanJCR left the game
+[28Jun2025 00:04:30.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 00:04:30.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
